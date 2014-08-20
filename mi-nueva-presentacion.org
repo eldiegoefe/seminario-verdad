@@ -1,0 +1,261 @@
+* Presentación para el Seminario
+
+* Mis ámbitos de trabajo.
+
+Entorno en el cual el concepto de verdad cobra interés.
+
+** Enseñanza
+** Investigación en ciencias
+
+Mis tareas como investigador las realicé en fisiología cardíaca, donde
+las preguntas que se tratan de responder tienen que ver con el
+fenómeno de acoplamiento de excitación-contracción. Se trata de
+indagar en los mecanismos involucrados desde que llegan los impulsos
+nerviosos a las células cardíacas, hasta que éstas se contraen y de
+este modo, haciéndolo además coordinadamente entre todas las células
+musculares, logran generar la función de bomba.
+
+Hay en este problema una gran complejidad. Hay desplazamiento de
+pequeños átomos cargados, llamados iones, a través de la membrana
+celular y también a través de las membranas de los órganos internos
+dentro de la célula, hay proteinas llamadas "canales" que dejan pasar
+unos iones en particular y no otros (canales de sodio, canales de
+calcio, etc), pero que afectan su funcionamiento frente a cambiantes
+concentraciones de una tercer sustancia (moléculas que bloquean o
+favorecen este funcionamiento), también hay otras proteinas que
+funcionan como bombas (de sodio-potasio), a lo que se suma que la
+estructura donde están fijadas estas proteinas tiene una consistencia
+fluida, donde hay un movimiento constante de sus componentes, que a su
+vez son muy dependientes de las formas para cumplir su función (un
+canal es selectivo por las dimensiones que tiene su estructura, que
+permite alojar un ion de sodio pero no uno de calcio). Además la
+expresión de la información genética cumple un importante papel, y es
+algo sobre lo cual los científicos pueden operar, puesto que
+actualmente se diseñan animales de laboratorio con ciertas mutaciones
+(por ejemplo la ausencia de una bomba).
+
+Además, influyen sobre el sistema en estudio, el medio ambiente donde
+se realizan las medidas, los resultados cambian cuando el tejido está
+a distinta temperatura, en presencia de líquidos con distintas
+concentraciones, etc.
+
+También hay variaciones importantes en el funcionamiento del sistema
+cuando se estudian las células por separado, ya que los resultados de
+medir las mismas variables son distintos a cuando las mediciones se
+realizan sin disgregar las células, es decir mientras estas aún están
+formando parte de un órgano funcional.
+
+La complejidad del sistema se enriquece con el agregado de
+tecnologías para obtener información de los procesos que se tratan de
+dilucidar. Para indagar se utilizan instrumentos y técnicas que
+pueden alterar el funcionamiento de aquello que se estudia. Se
+utilizan elementos para medir corrientes, temperaturas, presiones,
+concentraciones, etc. Se sintetizan soluciones, se inyectan fármacos,
+se realizan preparados para mantener con vida órganos aislados...
+
+Realidad
+
+Se pretende descubrir la realidad, es decir dilucidar el
+funcionamiento de la naturaleza, respecto de la cual se tienen ciertos
+supuestos: que hay una regularidad y estabilidad en la naturaleza que
+se traduce en un funcionamiento bajo reglas (un canal de calcio
+funciona siempre de la misma manera en condiciones semejantes). La
+verdad en este contexto consiste de aquellas afirmaciones que
+describen el mundo y sus procesos tal como son: el sodio ingresa por
+un lugar, sale por el otro, se acumula en tal lado, genera tales
+efectos, siempre! La realidad se describe con esquemas, modelos,
+analogías, resultados de mediciones, fotografías, registros temporales
+de la evolución de distintas variables, reglas, tablas de
+probabilidades, etc.
+
+** Ejercicio de la ingeniería. Desarrollo de tecnologías
+
+¿es de carácter científico? (ciencias del diseño).
+¿qué hago cuando me enfrento a un problema?
+- multicausalidad
+- complejidad
+
+búsqueda de una racionalidad. verdad es aquello que sirve y que puedo
+utilizar con cierto grado de confianza en un razonamiento.
+
+- simulaciones
+- la existencia de conocimiento no verbalizable (el perceptrón)
+
+el imaginario sobre el quehacer del ingeniero. ¿Es realmente
+matemática lo que se usa?
+
+MEMES Ingenieriles. Buena ciencia e ingeniería vs Mala ciencia e
+ingeniería.
+
+
+* No soy un experto, eso no significa que no puedo opinar.
+
+Sólo contextualizo mi posición.
+
+
+* Realidad
+
+Esto vendría a ser una especie de kernel o núcleo del sistema
+operativo:
+
+Parto de creer que la realidad existe y que no hay ningún genio
+maligno tratando de engañarnos. Si bien la hipótesis de Matrix es
+plausible, elijo no creerla. Entonces si la realidad existe la verdad
+es una característica de las afirmaciones que podemos hacer sobre el
+universo.
+
+el problema de la inducción llevado al comportamiento disímil entre
+células individuales y órganos
+
+La mayoría de los ingenieros y científicos "cree" en la inducción.
+
+Los científicos (y los ingenieros) no saben nada de los problemas de
+la epistemología.
+
+---
+
+Puede haber caos allí donde hay reglas. La evolución de un sistema
+depende de las condiciones iniciales y de las perturbaciones que
+recibe (además de la estructura y función de sus partes).
+
+---
+
+Los argumentos como soldados. Se niega todo lo que no esté de acuerdo
+con la linea principal.
+
+---
+
+La gente tiende a creer que los seres humanos somos máquinas que
+funcionamos en un solo sentido. Creen que lo que pensamos, sentimos,
+vemos, es el resultado de la expresión de la información genética y el
+sinnúmero de fenómenos químicos que ocurren en nuestras células. No
+faltan los papers que hablan del descubrimiento de la hormona que
+genera la esperanza, el gen que causa la infidelidad, o la molécula
+que causa la depresión. Pero este modelo no toma en cuenta que el
+cuerpo puede ser un sistema bidireccional: nuestran sensaciones pueden
+de algún modo actuar sobre nuestra química. Quizás esto tiene que ver
+con el modelo de causa-efecto y con la reticencia a complejizar,
+porque ya sabemos que existen montones de sistemas retroalimentados,
+incluso en nuestro propio cuerpo.
+
+programa de magia: "recursos atencionales" ¿realmente este concepto
+sirve para explicar algo? es como el poder somnífero o el poder
+curativo de una sustancia. / Redes. Magia y neurociencia en red.
+
+lo que es científico es la forma de conocer, la exahustividad de la
+búsqueda. no es el método, ni que se trate de algo matemático o no.
+
+la realidad existe? puede conocerse? la ciencia se plantea que sí.
+
+la verdad debería significar que lo que se afirma es tal como sucede
+en la realidad. pero tenemos el problema de la complejidad y de la
+multiplicidad de causas, y nuestra innegable limitación para
+comprender. entonces tenemos que buscar sustitutos a una definición
+que nos deja tan afuera. encontramos entonces esta cuestión de las
+aproximaciones sucesivas, pero tiene el problema que hemos
+descubierto, cada tanto nos damos cuenta de que la aproximación no
+nos aproxima, como cuando la física clásica se vuelve relativista. el
+cambio de paradigma es tan grande... otra definición más interesante
+es la verdad como aquello que maximiza la coherencia de un conjunto
+de ideas (un paradigma).
+n
+
+Cuando Franco hablaba sobre el modo "respetable" de producir
+discursos (actos de habla de un cierto tipo, como en la producción
+periodística de Rodolfo Walsh) remarcaba la necesidad de sostener ese
+discurso en datos "objetivos de la realidad": documentos,
+testimonios, estadísticas, etc. A primera vista podría parecer
+parecer obvio que basta con esto. Pero podemos plantear algunas
+preguntas: son todos los testimonios honestos, cómo se valoran los
+datos que son contradictorios (porque la realidad no siempre se
+expresa de manera coherente). Por ejemplo: los economistas, que usan y
+analizan variables matemáticas y utilizan modelos computacionales,
+pueden sacar conclusiones opuestas de sus estudios. Hay evidentemente
+datos que es preciso desechar, como ciertas afirmaciones
+gubernamentales sobre tal o cual cosa, o ciertas operaciones
+periodísticas que presentan un velo demasiado endeble respecto de lo
+que pretenden (no la verdad, sino otra cosa). No parece saludable
+aceptar todo esto basado en la complejidad de los sistemas, porque hay
+mentiras que se revelan ante el análisis. Pero hay que tener cuidado
+de afirmar que siempre la realidad es cognoscible, registrable,
+medible. Hay muchas interpretaciones que son necesariamente erroneas a
+la luz de una inspección metódica, pero hay otras que son más
+difíciles de desechar, porque aparecen ahí indicios contradictorios,
+información que no es concluyente (como en el ejemplo de los
+experimentos para mostrar que la tierra gira tirando una piedra desde
+una torre).
+
+Respecto de los beneficios de la ciencia, el hecho de tener
+celulares, medicamentos, etc.
+
+El problema de la falta de compromiso de los lectores y el hecho de
+que no se desencadenen escándalos con consecuencias reales es también
+un problema para la ciencia, si pensamos que la ciencia no debe ser
+dominio exclusivo de los científicos sino de un público (ilustrado)
+general. ¿Qué nos toca hacer frente a esto? Yo creo que hay que
+criticar sin piedad al sistema científico, sin endiosarlo por sus
+logros, y mostrar que el público general puede participar de sus
+procesos, que no incluyen sólo la producción del conocimiento sino su
+difusión, la participación en la selección de problemas relevantes,
+la auditoría de las instituciones, etc. Por eso es importante una
+educación que permita a las personas participar adecuadamente en
+estas tareas.
+
+Algo que me parece imprescindible para el espíritu científico es
+advertir las debilidades de las propuestas que uno hace, de las
+teorías que uno tiene. Recibir la crítica y evaluarla y no empezar
+por ridiculizarla, sino por tratar de entender desde la óptica del
+otro. Muchas veces esto puede conducir igual a reafirmar lo que uno
+piensa, pero quizás no siempre. Se puede aprender de puntos de vista
+no expertos o no especializados (por ejemplo en quienes pueden
+elaborar sistemas de comprensión basados en el uso de
+analogías). Todas las tradiciones pueden aprender de otras, unas
+disciplinas pueden aprender de otras, de otras culturas y formas de
+pensamiento. La realidad es tan rica que quizás tiene aspectos que no
+son binarios, en los que podrían ser aplicables lógicas diversas. O
+hay que advertir que el binarismo es posible siempre que permita
+cierta flexibilidad (¿qué onda con los sexos, no es acaso absurdo
+plantear la pregunta sobre si una persona es mujer o varón?).
+
+Es necesaria una riqueza del lenguaje para poder comprender el mundo.
+
+Les preocupa el problema de la objetividad.
+
+Sistemas complejos, caos, predicción. ¿Sabemos cuál es el efecto de
+una sustancia sobre el cuerpo? ¿Cómo discutimos si el g
+
+La comprensión parcializada de la realidad por parte de los
+científicos. La búsqueda de un lenguaje común derivó en lo que hoy es
+la microespecialización. ¿Pueden entenderse realmente dos científicos
+de la misma disciplina que estudian fenómenos diversos? Cómo esta
+especialización atenta contra la comprensión holística de la realidad.
+
+Me gustó la definición de que verdad es la predisposición a la
+búsqueda de quien investiga, y no es una propiedad en sí de la
+teoría.
+
+Lo científico es la predisposición a la investigación, a la búsqueda
+de verdades, el inconformismo con el nivel de conocimiento actual, la
+apertura a la discusión, ...
+
+A veces la discusión es entre ciencia vs no-ciencias, cuando la
+dicotomía más peligrosa es buena ciencia vs mala ciencia.
+
+la verdad tiene capas, como una cebolla. las capas externas de la
+teoría atómica permiten explicar el funcionamiento de las bombas de
+cobalto, aún cuando se utilicen modelos completamente superados y
+notoriamente falsos. la analogía tiene el problema de que uno puede
+tender a considerar que a capas más profundas hay mayor contenido de
+verdad, cuando en realidad distintas teorías en distintas capas
+pueden articular una visión del mundo mejor que una sola capa interna.
+
+Pensemos en el sistema científico y en cómo su producción no
+solamente sirve para brindarnos celulares y vehículos a precio
+accesible, sino una batería de muletas para el modo de producción
+capitalista.
+
+Después está el problema de usar un lenguaje suficientemente bueno
+para describir un proceso. Se puede caer en el error de evaluar el
+sistema educativo basando el juicio en ciertos valores estadísticos,
+cuando los mismos no representan la realidad de lo que pasa dentro de
+un aula.
