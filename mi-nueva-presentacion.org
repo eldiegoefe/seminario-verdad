@@ -1,19 +1,143 @@
-* Presentación para el Seminario
+* Aclaración
+
+Voy a hablar sobre la Verdad teniendo en cuenta mis experiencias
+laborales e inquietudes personales. Me parece importante aclarar que
+mis opiniones, reflexiones y puntos de vista están construidos desde
+lo que sería una "visión del usuario". Esto es diferente a una
+exposición hecha por un experto, que en este caso sería un
+epistemólogo. Sin embargo, esto no es una invitación a que desprecien
+mis palabras, puesto que -como veremos- la palabra de los expertos no
+es la única que puede contribuir a la construcción de un campo del
+conocimiento.
+
+De todos modos, siempre es posible que algunas de mis
+observaciones puedan ser consideradas superficiales, superadas o
+directamente erroneas por epistemólogos o incluso por un público no
+especializado. En ese caso, espero que estén atentos a señalarlo, y
+espero que lo manifiesten ya sea durante la exposición o al final.
+
+También quiero advertir que mi expectativa no es convencer a quienes
+me escuchan sobre la validez de mis afirmaciones, sino que el éxito de
+esta charla será el cuestionar diferentes perspectivas sobre la verdad
+y sobre las ciencias, de modo que no estemos cómodos ni afirmando que
+el conocimiento científico es despreciable ni encumbrándolo como a un
+ídolo indiscutible.
+
+**(sobre el final puedo retomar esto para decir que tampoco sostengo la
+filosofía popular de que el punto medio entre dos extremos es siempre
+mejor).**
 
 * Mis ámbitos de trabajo.
 
-Entorno en el cual el concepto de verdad cobra interés.
+Voy a presentar algunas ideas en relación con mis espacios de
+trabajo, actuales y pasados, por lo que me parece importante para
+situar a todos en el contexto en el que se desarrollan estas
+reflexiones, describir brevemente estos lugares y sus características
+sobresalientes, los cuales constituyen entornos donde el concepto de
+verdad cobra distintos significados o tiene diferentes alcances y
+particularidades.
 
 ** Enseñanza
-** Investigación en ciencias
 
-Mis tareas como investigador las realicé en fisiología cardíaca, donde
-las preguntas que se tratan de responder tienen que ver con el
-fenómeno de acoplamiento de excitación-contracción. Se trata de
-indagar en los mecanismos involucrados desde que llegan los impulsos
-nerviosos a las células cardíacas, hasta que éstas se contraen y de
-este modo, haciéndolo además coordinadamente entre todas las células
-musculares, logran generar la función de bomba.
+Empecé como auxiliar-alumno en 1998, en la carrera de
+Bioingeniería. Actualmente soy Jefe de Trabajos Prácticos en dos
+asignaturas: Bioingeniería II y Medicina Nuclear (de acuerdo a la
+nomenclatura del Plan 1993). La primera aborda las técnicas para
+obtener y procesar información del mundo real y en particular del
+cuerpo humano (se estudian los modos de medir la temperatura, la
+presión arterial, la actividad eléctrica del corazón en la forma del
+electrocardiograma, etc) mientras que la segunda se ocupa de los usos
+de las radiaciones ionizantes para diagnóstico (es decir para la
+obtención de imágenes del cuerpo humano) y para tratamiento
+(principalmente del cancer).
+
+** Investigación y Desarrollo
+
+Participé en tareas de investigación en el campo de la
+electrofisiología cardíaca, tanto en la Facultad de Ingeniería como en
+visitas temporarias a un laboratorio de esta especialidad en Estados
+Unidos.
+
+Trabajé dentro de grupos que se ocupan de dos grandes temas:
+
+- Uno es la variabilidad de la frecuencia cardíaca: a partir del
+registro del electrocardiograma mediante electrodos superficiales se
+calcula la frecuencia cardíaca, que va variando latido a latido, y se
+trata de correlacionar esa información con diversos estados
+fisiológicos y fisiopatológicos (como el estrés), para obtener un
+índicador clínico de la condición de salud o enfermedad del
+paciente.
+
+- El otro tema es el fenómeno de excitación-contracción: se trata de
+indagar en los mecanismos celulares involucrados desde que llegan los
+impulsos nerviosos a las células cardíacas, hasta que éstas se
+contraen, y logran en conjunto y coordinadamente que el
+corazón realice su función de bomba.
+
+**Y próximamente me voy a trabajar a un instituto del Conicet, no como
+investigador, sino como "personal de apoyo" (un cargo técnico).**
+
+*** División del campo
+
+Las tareas de investigación "pura" y de desarrollo de tecnología están
+relacionadas y se necesitan mutuamente, pero prefiero separarlas en
+beneficio del abordaje del problema de la verdad.
+
+En general las ideas más difundidas y discutidas de las diferentes
+escuelas epistemológicas, desde el positivismo en adelante, se
+refieren a las ciencias puras, es decir aquellas que se ocupan de
+descubrir cómo es el universo, cómo funciona la naturaleza, y
+demás. Para ellas se plantean y se discuten, por ejemplo, diferentes
+modelos metodológicos.
+
+El desarrollo de tecnologías o las ciencias aplicadas (que son los
+viejos oficios pero profesionalizados, y que podemos llamar "ciencias
+del diseño") tienen particularidades, ya que su objetivo no es tanto
+comprender el mundo sino operar sobre él, mediante la creación o
+modificación de procesos o instrumentos para cambiar nuestro entorno.
+
+A la vez hay que tener en cuenta que esta diferenciación se vuelve
+artificial cuando advertimos que las ciencias básicas requieren de
+tecnologías más sofisticadas para permitir la realización de
+experimentos, mientras que el descubrimiento de las leyes naturales
+habilita al avance de la técnica.
+
+Recordatorio de una aclaración previa: hay diversos modos de
+comprender y analizar la ciencia y la tecnología. A esto me refería
+cuando decía que quizás un experto epistemólogo plantearía de modo
+diferente esta clasificación.
+
+En ambos casos mi participación principal tuvo más que ver con la
+construcción de instrumentos de medición para obtener información de
+en cada uno de estos dos campos. No trabajé directamente en la
+elaboración de teorías y experimentos, sino en posibilitar estos
+últimos, pero en ambos estuve en contacto con investigadores "básicos"
+y sus discusiones acerca de las incógnitas del campo de estudio, las
+teorías que pretendían probar o cuestionar y los experimentos para
+materializar estos propósitos.
+
+
+* Primer parada: la realidad.
+
+En todos estos ambientes las personas que encontré son realistas
+duras. Asumen la existencia de una realidad objetiva, independiente de
+nuestros sentidos y además dan la impresión de creer que las teorías
+realmente describen la realidad tal cual es. Digo que dan esta
+impresión porque nadie suele conversar sobre sus supuestos
+epistemológicos; las preocupaciones científicas de los investigadores
+son de otra índole (en general están preocupados por sus resultados
+experimentales y en cómo conseguir fondos para continuar).
+
+Con esto quiero decir que cuando describen un sistema, como el pasaje
+de iones a través de una membrana celular, no están pensando en que se
+trata de modelos que ofrecen resultados semejantes a que se perciben a
+través de nuestros instrumentos y sentidos, sino que entienden que
+observaciones y teorías describen a la realidad tal cual es.
+
+Esto tiene la ventaja de que no se está permanentemente dudando de las
+observaciones y de los resultados experimentales, y es posible
+
+
 
 Hay en este problema una gran complejidad. Hay desplazamiento de
 pequeños átomos cargados, llamados iones, a través de la membrana
@@ -88,9 +212,7 @@ MEMES Ingenieriles. Buena ciencia e ingeniería vs Mala ciencia e
 ingeniería.
 
 
-* No soy un experto, eso no significa que no puedo opinar.
 
-Sólo contextualizo mi posición.
 
 
 * Realidad
@@ -230,6 +352,18 @@ la microespecialización. ¿Pueden entenderse realmente dos científicos
 de la misma disciplina que estudian fenómenos diversos? Cómo esta
 especialización atenta contra la comprensión holística de la realidad.
 
+De Feyerabend: pg4. En respuesta a si es deseable apoyar la ciencia
+como único camino para comprender el mundo, responde que no y que hay
+dos razones para ello: "La primera consiste en que el mundo que
+deseamos explorar es una entidad en gran medida desconocida. Debemos
+por tanto mantener abiertas nuestras opciones y no restringirlas de
+antemano. ... ¿Quién garantiza que [las prescripciones
+epistemológicas] constituyan el mejor camino para descubrir, no ya
+unos cuantos "hechos" aislados, sino ciertos secretos profundos de la
+naturaleza? La segunda es que una educación científica como la
+descripta antes (y como se imparte en nuestras escuelas) no puede
+reconciliarse con una actitud humanista".
+
 Me gustó la definición de que verdad es la predisposición a la
 búsqueda de quien investiga, y no es una propiedad en sí de la
 teoría.
@@ -259,3 +393,75 @@ para describir un proceso. Se puede caer en el error de evaluar el
 sistema educativo basando el juicio en ciertos valores estadísticos,
 cuando los mismos no representan la realidad de lo que pasa dentro de
 un aula.
+
+Feyerabend plantea que los niños no aprenden sólo por la
+argumentación durante la enseñanza, sino a "un proceso de crecimiento
+que se desarrolla con la fuerza de una ley natural. Y donde los
+argumentos parecen tener efecto, éste se debe más a menudo a su
+repetición física que a su contenido semántico. Después de admitir
+todo esto, hemos de aceptar también la posibilidad de crecimiento
+no-argumentativo en el adulto... debería esperarse que los cambios
+catastróficos del contorno físico, las guerras, el colapso de los
+sistemas de moralidad imperante, o las revoluciones políticas, habrán
+de transformar también los modelos de reacción del adulto, incluidos
+importantes modelos de argumentación. Esta transformación puede ser
+también un proceso completamente natural, y la única función de la
+argumentación racional quizás radique en aumentar la tensión mental
+que precede y **causa** la explosión de la conducta.
+
+Ahora bien, si son los eventos, no necesariamente los argumentos, la
+causa de que adoptemos nuevos criterios, incluyendo formas nuevas y más
+complejas de argumentación ¿no es cierto que los defensores del statu
+quo tendrán que aducir no sólo contra-argumentos, sino causas
+contrarias? ("la virtud sin el terror es ineficaz", dice Robespierre).
+Y si las viejas formas de argumentación resultan demasiado débiles
+para constituir una causa, ¿no deberán estos defensores o bien
+abandonar, o bien recurrir a medios más fuertes y más irracionales?
+(Es muy dificil(Pg 8-9).
+
+cómo se distribuye el dinero en ciencias? qué campos reciben más, qué
+lineas de investigación se apoyan más?
+
+Tenemos la sensación, al estudiar ciencias, por el modo en que se
+presentan los conocimientos, de que las distintas disciplinas
+tuvieron un progreso continuo y sus teorías conforman un cuerpo
+explicativo coherente, sin fisuras. Nunca se mencionan las
+observaciones que cuestionan las teorías, ni cómo se dieron los
+conflictos cuando teorías opuestas se encontraban en disputa.
+
+Sobre la sustitución de teorías: El progreso se consigue a menudo por
+medio de una crítica desde el pasado... Después de Aristóteles y
+Ptolomeo, la idea de que la Tierra se mueve -esa extraña, antigua, y
+"completamente ridícula" concepción pitagórica- fue arrojada al
+montón de escombros de la historia, para ser revivida sólo por
+Copérnico y para convertirse en sus manosen un arma con la que vencer
+a los vencedores de dicha concepción. (Pg 33) En esto quizás puedo
+plantear una analogía entre el "viejo" Lisp y los modernos lenguajes
+de computación (o por ejemplo las modas de la programación orientada
+a objetos y la programación funcional). Sigue Feyerabend: "Semejantes
+desarrollos no son sorprendentes. Una idea no se examina nunca en
+todas sus ramificaciones y ningún punto de vista recibe jamás todas
+las oportunidades que se merece. Las teorías se abandonan y
+sustituyen por otras explicaciones más de moda, mucho antes de tener
+la oportunidad para mostrar sus virtudes.
+
+Cita de Einstein, Fey. Pg 41 (nota al pie) "Es realmente extraño que
+los hombres sean, por lo general, insensibles a los más fuertes
+argumentos mientras que siempre están inclinados a sobrevalorar la
+exactitud de las mediciones." (podría buscar cosas sobre la oposición
+entre físicos teóricos y físicos experimentales)
+
+La idea de que el conocimiento para vivir mejor ya está..
+
+pensar sobre las dos teorías sobre el registro del ecg. cuál es
+veradadera?
+
+lo que puedo plantear es que el pragmatismo es la medida de la
+verdad, pero que éste (el pragm) tiene sus límites, nos va a impedir
+conocer ciertas cosas.
+
+el recorte de las disciplinas es artificial, eso se nota en la
+formación de los científicos de areas que incluyen campos diversos,
+como la biofísica. En estos campos es que se vuelve notoria la
+necesidad de una visión más holística, ya que los fenómenos no pueden
+comprenderse utilizando los conceptos de una sola disciplina.
