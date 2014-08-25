@@ -427,24 +427,82 @@ cometer errores.
 
 Lo que se trata de hacer es de reducir los errores y cuantificar las
 incertidumbres. En algunos casos el avance del conocimiento científico
-y de los desarrollos tecnológicos permite efectivamente disminuir los
-errores. Sin embargo, puede suceder que la propia variable que se
-pretende medir tiene un valor que no se puede precisar con exactitud,
-o directamente que ese valor sea indeterminable, como en el caso de la
-determinación simultanea de la ubicación y la velocidad de una
-partícula sub-atómica. ¿De dónde proviene esta limitación a nuestra
-capacidad de registrar la realidad?  ¿Hasta qué punto queda limitada
-nuestra habilidad para actuar?
+y de los desarrollos tecnológicos permite efectivamente disminuir
+estos errores, aunque sin eliminarlos completamente.
+
+Pero en muchos casos hay un problema insalvable, puede suceder que la
+propia variable que se pretende medir no tenga un valor exacto, o que
+ese valor sea indeterminable, como en el caso de la ubicación y la
+velocidad de una partícula sub-atómica.
+
+¿De dónde proviene esta limitación a la exactitud con que se puede
+registrar la realidad? Vamos a usar un ejemplo para mostrarlo. En la
+era de los GPS no parece deparar ningún contratiempo determinar la
+distancia entre dos ciudades, por ejemplo entre Paraná y Santa
+Fe. ¿Hay 30, 35 km?  Puede ser, pero si decidimos no creerle a los
+carteles de la ruta y nos proponemos que cada uno de nosotros viaje en
+algún vehículo para obtener una medida de la distancia a partir de la
+lectura del cuentakilómetro, ¿vamos a llegar todos al mismo resultado?
+Cada uno puede hacer el experimento con leves diferencias: ¿cuál
+considerará cada uno que es el punto de partida y el punto de llegada?
+¿La plaza principal de cada ciudad? ¿El límite según la legislación?
+¿La ubicación de las casas más cercanas entre ambas ciudades? Por otro
+lado, ¿habrán tomado todos el mismo camino y se habrán desplazado
+todos por la trayectoria exacta que recorrieron los demás? Obviamente
+que si nos reunimos para comparar resultados nuestras medidas serán
+distintas, aún cuando todos contemos con un cuentakilómetros de gran
+calidad. La propia variable que queremos medir es hasta cierto punto
+indeterminada, excepto que todos acordemos un criterio, de modo que la
+variable ya no existe sólo en la realidad sino que la hemos definido
+en nuestro lenguaje, es decir que la hemos manipulado y ya no es ajena
+a nuestra existencia. Quizás uno puede pensar que esto es un caso
+particular, ¿y si el objeto que queremos medir es una mesa?
+Aparentemente no tendremos la dificultad que acabamos de señalar para
+las ciudades, pero si queremos tener muy alta precisión en nuestra
+medida y no nos alcanza con usar una lupa en cada extremo y
+amplificamos más y más los bordes, entonces ya no vamos a ver una
+superficie que se interrumpe abruptamente, sino que vamos a poder ver
+los átomos de la mesa, y sus nubes electrónicas que además se van a
+estar moviendo porque incluso en los sólidos hay agitación térmica.
+
+Tenemos que preguntarnos si efectivamente podremos desprendernos de
+estas incertidumbres o si podemos convivir con ellas. La distancia de
+Paraná a Santa Fe nos puede servir si queremos calcular cuánto
+combustible tener en el tanque (podríamos preguntarnos: ¿cuánta nafta
+exactamente consume nuestro vehículo por kilómetro?), o si necesitamos
+saber en cuánto tiempo podemos hacer el viaje. En el contexto de esos
+problemas, que la distancia varíe en uno, dos o cinco kilómetros no
+tiene demasiado impacto. Hay un grado de incertidumbre tolerable en el
+conocimiento de la realidad que no afecta nuestra capacidad de actuar
+sobre ella. Si queremos saber cuántas personas pueden sentarse
+alrededor de la mesa, no tiene sentido tratar de obtener una medida
+con la precisión de un Angstrom.
+
+De todos modos creo que este es un tema interesante porque muchas
+veces se apela a la ciencia para tratar de resolver temas
+conflictivos, y perdemos la noción de que la ciencia no puede
+responder cualquier pregunta. Pongamos por caso el tema de la vida
+humana: ¿cuando comienza y cuando termina? ¿En qué momento se inicia
+la existencia de un ser humano y en qué momento finaliza? Estas
+preguntas también requieren criterios compartidos para poder ser
+respondidas.
+
+Lo interesante igual es advertir entonces que quizás la realidad puede
+ser medida, comprendida, manipulada, hasta cierto punto. Como si se
+tratase de una cosa que aún cuando afinamos nuestros sentidos se
+presenta con bordes borrosos. Esto no quiere decir que de lo mismo
+cualquier número para representar la realidad. Las medidas que los
+ingenieros deberían usar (aunque muchas veces se pase por alto) se
+escribe con notación de intervalos: la medida se expresa como un punto
+medio con una incertidumbre hacia ambos lados: la mesa mide 1,20 mas
+menos 1 cm. Estamos seguros de que la mesa mide entre 1,19 y
+1,21. Ahora pasó algo interesante, pasamos a tener total certeza de
+que la medida es algún valor dentro de ese rango.
 
 
+** Aspectos sociales de la ciencia.
 
-
-
-
-
-
-
-
+Diferencia entre la ciencia y las instituciones científicas
 
 O también: se puede tener unmodelar con ecuaciones un fenómeno y aún así no
 comprender el fenómeno en sí, pero pesar de esta carencia igual se
