@@ -130,10 +130,13 @@ materializar estos propósitos.
 
 En estos ambientes las personas que encontré son realistas duras, que
 asumen la existencia de una realidad objetiva, independiente de los
-sentidos. La mayoría, sino todos, creen que la realidad es tal cual la
-registramos con nuestros instrumentos, realidad que vamos
-comprendiendo cada vez mejor mediante teorías que son progresivamente
-explicativas (es decir que no son instrumentalistas).
+seres humanos, de nuestros deseos, de nuestros sentidos. La mayoría,
+sino todos, creen que la realidad es tal cual la registramos con
+nuestros instrumentos, realidad que vamos comprendiendo cada vez mejor
+mediante teorías que son progresivamente explicativas (es decir que no
+son instrumentalistas). Entonces si la realidad existe la verdad es
+todo aquello que podemos afirmar sobre el mundo y que se corresponde
+con nuestra experiencia sobre ese mundo.
 
 En este ambiente la realidad se analiza a través de los datos que se
 acopian durante experimentos. Estos experimentos se diseñan para
@@ -552,15 +555,6 @@ que la medida es algún valor dentro de ese rango.
 
 Diferencia entre la ciencia y las instituciones científicas
 
-O también: se puede tener unmodelar con ecuaciones un fenómeno y aún así no
-comprender el fenómeno en sí, pero pesar de esta carencia igual se
-logra obtener suficiente información para poder actuar. Es decir,
-podemos elaborar sistemas artificiales que representan el
-funcionamiento de los sistemas naturales, a pesar de que la estructura
-con la cual están construidos sea absolutamente diferente.
-
-
-
 La ciencia no dice si la energía nuclear es segura o no es segura. Ni
 si el glifosato es o no seguro. Lo que nos indica es el riesgo que
 tiene cada una. Nos puede mostrar alternativas o la falta de
@@ -572,10 +566,82 @@ por intereses políticos y económicos, podemos tener a los científicos
 del Conicet coincidiendo con Lino Barañao respecto de la inocuidad de
 los procesos productivos de Monsanto, Barrick Gold, Botnia y Chevrón.
 
+* Conclusiones
+
 Mi conclusión es que lo único científico no es el método sino la
 voluntad de saber a través de la razón.
 
-comprender y explicar
+Una diferencia con otras formas de conocimiento es que evita el
+estancamiento, trata de avanzar en un conocimiento más profundo,
+mientras que formas tradicionales de conocer parecen tender a
+estancarse y reproducir infinitamente lo mismo.
+
+* Enseñanza
+
+Como la realidad es compleja, y son complejas las teorías que usamos
+para explicarla, no siempre resulta facil llegar a la verdad durante
+el trayecto de enseñanza. Por ejemplo: no se puede enseñar física
+partiendo de la teoría de la relatividad. Empezar por la mecánica
+clásica es una elección pedagógica mucho más razonable, y de hecho
+como es tanta la comprensión que es posible tener del mundo con "sólo"
+la mecánica clásica que se puede ejercer la profesión sin saber de la
+existencia de la mecánica relativista.
+
+El problema que surge con esto es que si la enseñanza es así de
+limitada y además tiene el problema de ser a-histórica (en el sentido
+que no se explica en las aulas las limitaciones de lo que se enseña,
+ni se suele mencionar la existencia de teorías rivales para explicar
+los mismos fenómenos, y tampoco se explica cuáles son las deficiencias
+de las teorías vigentes) entonces resulta que los egresados pueden
+llegar a tener una percepción equivocada y sobredimensionada sobre su
+real conocimiento del mundo.
+
+Otro conflicto con la verdad tiene que ver con el objetivo que se dan
+para sí mismas instituciones como las facultades de ingeniería. Son
+discutibles los propósitos a los cuales está orientada la
+enseñanza. Más allá de los documentos oficiales y sus bienaventuradas
+promesas, los profesores tratan de formar a los estudiantes para que
+puedan responder a los problemas esperables en las distintas areas en
+la que supuestamente son expertos. Enseñar de esta manera tiene el
+peligro de cristalizar formas convencionales de actuar, repetir las
+soluciones evadiendo lo que de particular tenga cada problema. Hay en
+esto una especie de adoctrinamiento, un recorte a la creatividad, una
+falta de compromiso con la crítica. En general pretendemos que los
+estudiantes puedan afrontar tareas de diseño, producción y
+mantenimiento en relación con la electrónica, instalaciones
+hospitalarias, informática, fabricación de implantes, etc. La verdad
+sufre en este contexto recortes porque:
+
+a. no hay tiempo físico para formar con profundidad en tantas
+especialidades distintas que conforman las carreras profesionales ni
+para el abordaje de la complejidad de los temas. Pretendemos enseñar
+pero lanzados en una carrera que nos deja sin aliento. Hay que cumplir
+con contenidos mínimos que no son tan mínimos, y además hay una
+sucesión de asignaturas que exigen de la anterior una serie de
+conocimientos que provocan el abultamiento del currículum.
+
+b. no hay mucho espacio para la creatividad, la exploración, el error,
+la experimentación real y MUCHO MENOS para cuestionamientos.
+
+c. no hay pretensión revolucionaria en la formación: el mercado de la
+salud y la industria se ignoran o se toman como dados, a lo sumo como
+espacios que pueden mejorarse en términos desarrollistas.
+
+d. si bien se promueve la idea de que el conocimiento racional es
+central, la legitimación del saber proviene de la autoridad de los
+profesores o de quienes evalúan a los profesores.
+
+Si miramos las industrias, las instituciones de salud públicas y
+privadas, los organismos de control en los que se desempeñan los
+bioingenieros, vemos que la mayoría de los egresados de la facultad
+cumplen exitosamente con lo que se les pide hacer. Para mi esto
+significa que la formación universitaria cumple en reproducir la mano
+de obra que requiere el mercado: especializada, sumisa, incapaz de
+imaginar y motorizar cambios significativos. Es lo razonable
+tratándose de una institución del Estado.
+
+ Hay diferencia
+entre comprender y explicar
 
 complejidad: ejemplo de los efectos del glifosato
 
@@ -583,34 +649,6 @@ El problema de que la enseñanza sea a-histórica es que en muchos casos
 no conocemos las teorías rivales ni tampoco los problemas que
 tuvieron que superar.
 
-
-Podemos
-construir un sistema artificial que muestre cómo es la evolución de la
-temperatura de un cuerpo, a pesar de que lo hagamos con ecuaciones a
-partir de las cuales no podemos explicar cómo es que se realiza
-físicamente la transferencia de calor. Esta es la función de los
-modelos y de las simulaciones.
-
-En algunos casos, pueden sintetizarse sistemas que aprenden y que
-logran adquirir un conocimiento que no es directamente expresable en
-nuestro lenguaje. Es decir que podemos construir máquinas que pueden
-desarrollar conocimiento sobre la realidad, pero que no nos pueden
-transmitir ese conocimiento. Es como la materialización del comentario
-de los profesores mediocres, muy habituales en las aulas de
-ingeniería, que no importa saber sino que importa tener el teléfono
-del que sabe. En este caso, podemos construir "máquinas que saben" y
-usarlas aún cuando no nos pueden explicar lo que saben.
-
-* Realidad
-
-Esto vendría a ser una especie de kernel o núcleo del sistema
-operativo:
-
-Parto de creer que la realidad existe y que no hay ningún genio
-maligno tratando de engañarnos. Si bien la hipótesis de Matrix es
-plausible, elijo no creerla. Entonces si la realidad existe la verdad
-es una característica de las afirmaciones que podemos hacer sobre el
-universo.
 
 la verdad debería significar que lo que se afirma es tal como sucede
 en la realidad. pero tenemos el problema de la complejidad y de la
@@ -624,6 +662,7 @@ cambio de paradigma es tan grande... otra definición más interesante
 es la verdad como aquello que maximiza la coherencia de un conjunto
 de ideas (un paradigma).
 
+
 * Modelos
 
 Se suelen utilizar modelos que representan la realidad, es decir que
@@ -631,9 +670,32 @@ nos indican el comportamiento de las variables que nos interesan, aún
 cuando no haya una explicación convincente de la realidad que se
 representa.
 
+Se puede tener un modelo de un fenómeno y aún así no
+comprender el fenómeno en sí. A pesar de esta carencia igual se
+puede obtener suficiente información para poder actuar. Es decir,
+podemos elaborar sistemas artificiales que representan el
+funcionamiento de los sistemas naturales, a pesar de que la estructura
+con la cual están construidos sea absolutamente diferente.
+
 Puede haber caos allí donde hay reglas. La evolución de un sistema
 depende de las condiciones iniciales y de las perturbaciones que
 recibe (además de la estructura y función de sus partes).
+
+Podemos construir un sistema artificial que muestre cómo es la
+evolución de la temperatura de un cuerpo, a pesar de que lo hagamos
+con ecuaciones a partir de las cuales no podemos explicar cómo es que
+se realiza físicamente la transferencia de calor. Esta es la función
+de los modelos y de las simulaciones.
+
+En algunos casos, pueden sintetizarse sistemas que aprenden y que
+logran adquirir un conocimiento que no es directamente expresable en
+nuestro lenguaje. Es decir que podemos construir máquinas que pueden
+desarrollar conocimiento sobre la realidad, pero que no nos pueden
+transmitir ese conocimiento. Es como la materialización del comentario
+de los profesores mediocres, muy habituales en las aulas de
+ingeniería, que no importa saber sino que importa tener el teléfono
+del que sabe. En este caso, podemos construir "máquinas que saben" y
+usarlas aún cuando no nos pueden explicar lo que saben.
 
 * Conocimiento como caja negra
 
@@ -906,6 +968,21 @@ naturaleza? La segunda es que una educación científica como la
 descripta antes (y como se imparte en nuestras escuelas) no puede
 reconciliarse con una actitud humanista".
 
+Los defensores de la ciencia suelen apelar a la mejora en la salud y
+el confort como elementos propagandísticos. Pero si hablamos de
+aportes, también hay que mencionar los transgénicos, las armas, los
+desastres nucleares, la contaminación ambiental y demás.
+
+En la película Unbelievers, Dawking y Krauss mencionan que les
+gustaría que durante sus vidas aparezca alguna teoría plausible sobre
+el origen del universo o sobre alguna cosa así, y que puedan decir:
+"oh, era una explicación tan simple y plausible...". Sin embargo, la
+idea de que las reglas del universo son simples y elegantes es
+absurda, porque está lleno de mecanismos estrambóticos y dificiles de
+entender como la relatividad. ¿Por qué un mundo complejo debe
+explicarse y entenderse de manera simple?
+
+* La ciencia y la toma de decisiones
 * Lenguaje
 
 Es necesaria una riqueza del lenguaje para poder comprender el mundo.
