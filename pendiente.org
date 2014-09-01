@@ -1,0 +1,242 @@
+* Pendiente
+
+La idea de que el conocimiento para vivir mejor ya está..
+
+pensar sobre las dos teorías sobre el registro del ecg. cuál es
+veradadera?
+
+programa de magia: "recursos atencionales" ¿realmente este concepto
+sirve para explicar algo? es como el poder somnífero o el poder
+curativo de una sustancia. / Redes. Magia y neurociencia en red.
+
+Un detalle que puede
+perderse desde el exterior del mundo de las ciencias, a todo nivel, es
+que hay mucha competencia. La producción de conocimiento, en tanto es
+una actividad humana, se encuentra cruzada por diversidad de intereses
+y dista de asemejarse al modelo ideal de objetividad e imparcialidad
+que se le adjudican con ingenuidad. De todos modos, no voy a ahondar
+ahora en una sociología de las ciencias.
+
+diferencia entre conocer y explicar.
+
+
+(No se si hablé ya de que las teorías son verdaderas siempre bajo
+contextos limitados, por ejemplo las leyes de la física clásica para
+objetos moviéndose a velocidades mucho menores a la velocidad de la
+luz).
+
+** Feyerabend sobre la sustitución de teorías
+
+Sobre la sustitución de teorías: El progreso se consigue a menudo por
+medio de una crítica desde el pasado... Después de Aristóteles y
+Ptolomeo, la idea de que la Tierra se mueve -esa extraña, antigua, y
+"completamente ridícula" concepción pitagórica- fue arrojada al
+montón de escombros de la historia, para ser revivida sólo por
+Copérnico y para convertirse en sus manosen un arma con la que vencer
+a los vencedores de dicha concepción. (Pg 33) En esto quizás puedo
+plantear una analogía entre el "viejo" Lisp y los modernos lenguajes
+de computación (o por ejemplo las modas de la programación orientada
+a objetos y la programación funcional). Sigue Feyerabend: "Semejantes
+desarrollos no son sorprendentes. Una idea no se examina nunca en
+todas sus ramificaciones y ningún punto de vista recibe jamás todas
+las oportunidades que se merece. Las teorías se abandonan y
+sustituyen por otras explicaciones más de moda, mucho antes de tener
+la oportunidad para mostrar sus virtudes.
+
+** Problemas de la simplificaciones. Cuerpos = máquinas.
+
+La gente tiende a creer que los seres humanos somos máquinas que
+funcionamos en un solo sentido. Creen que lo que pensamos, sentimos,
+vemos, es el resultado de la expresión de la información genética y el
+sinnúmero de fenómenos químicos que ocurren en nuestras células. No
+faltan los papers que hablan del descubrimiento de la hormona que
+genera la esperanza, el gen que causa la infidelidad, o la molécula
+que causa la depresión. Pero este modelo no toma en cuenta que el
+cuerpo puede ser un sistema bidireccional: nuestran sensaciones pueden
+de algún modo actuar sobre nuestra química. Quizás esto tiene que ver
+con el modelo de causa-efecto y con la reticencia a complejizar,
+porque ya sabemos que existen montones de sistemas retroalimentados,
+incluso en nuestro propio cuerpo.
+
+
+Me gustó la definición de que verdad es la predisposición a la
+búsqueda de quien investiga, y no es una propiedad en sí de la
+teoría.
+
+Lo científico es la predisposición a la investigación, a la búsqueda
+de verdades, el inconformismo con el nivel de conocimiento actual, la
+apertura a la discusión, ...
+** El fenómeno de excitación-contracción
+
+Hay en este problema una gran complejidad. Hay desplazamiento de
+pequeños átomos cargados, llamados iones, a través de la membrana
+celular y también a través de las membranas de los órganos internos
+dentro de la célula, hay proteinas llamadas "canales" que dejan pasar
+unos iones en particular y no otros (canales de sodio, canales de
+calcio, etc), pero que afectan su funcionamiento frente a cambiantes
+concentraciones de una tercer sustancia (moléculas que bloquean o
+favorecen este funcionamiento), también hay otras proteinas que
+funcionan como bombas (de sodio-potasio), a lo que se suma que la
+estructura donde están fijadas estas proteinas tiene una consistencia
+fluida, donde hay un movimiento constante de sus componentes, que a su
+vez son muy dependientes de las formas para cumplir su función (un
+canal es selectivo por las dimensiones que tiene su estructura, que
+permite alojar un ion de sodio pero no uno de calcio). Además la
+expresión de la información genética cumple un importante papel, y es
+algo sobre lo cual los científicos pueden operar, puesto que
+actualmente se diseñan animales de laboratorio con ciertas mutaciones
+(por ejemplo la ausencia de una bomba).
+
+Además, influyen sobre el sistema en estudio, el medio ambiente donde
+se realizan las medidas, los resultados cambian cuando el tejido está
+a distinta temperatura, en presencia de líquidos con distintas
+concentraciones, etc.
+
+También hay variaciones importantes en el funcionamiento del sistema
+cuando se estudian las células por separado, ya que los resultados de
+medir las mismas variables son distintos a cuando las mediciones se
+realizan sin disgregar las células, es decir mientras estas aún están
+formando parte de un órgano funcional.
+
+La complejidad del sistema se profundiza con el agregado de
+tecnologías para obtener información de los procesos que se tratan de
+dilucidar. Para indagar se utilizan instrumentos y técnicas que pueden
+alterar el funcionamiento de aquello que se estudia. Se utilizan
+elementos para medir corrientes, temperaturas, presiones,
+concentraciones, etc. Se sintetizan soluciones, se inyectan fármacos,
+se realizan preparados para mantener con vida órganos aislados...
+
+** Necesidad de la verdad
+
+Tener una mejor comprensión del mundo, contar con mayores
+conocimientos de física, química, biología y demás ciencias puras,
+permite teorías que puedan describir mejor la dinámica de un proceso,
+predecir mejor el comportamiento.
+
+la verdad tiene capas, como una cebolla. las capas externas de la
+teoría atómica permiten explicar el funcionamiento de las bombas de
+cobalto, aún cuando se utilicen modelos completamente superados y
+notoriamente falsos. la analogía tiene el problema de que uno puede
+tender a considerar que a capas más profundas hay mayor contenido de
+verdad, cuando en realidad distintas teorías en distintas capas
+pueden articular una visión del mundo mejor que una sola capa interna.
+
+
+** Sobre los científicos
+
+
+Las preocupaciones científicas de los investigadores
+son de otra índole (en general están preocupados por sus resultados
+experimentales y en cómo conseguir fondos para continuar).
+
+La mayoría de los ingenieros y científicos "cree" en la inducción.
+
+Los científicos (y los ingenieros) no saben nada de los problemas de
+la epistemología.
+
+Los argumentos como soldados. Se niega todo lo que no esté de acuerdo
+con la linea principal.
+
+Les preocupa el problema de la objetividad.
+
+** Lenguaje
+
+Es necesaria una riqueza del lenguaje para poder comprender el mundo.
+
+Después está el problema de usar un lenguaje suficientemente bueno
+para describir un proceso. Se puede caer en el error de evaluar el
+sistema educativo basando el juicio en ciertos valores estadísticos,
+cuando los mismos no representan la realidad de lo que pasa dentro de
+un aula.
+
+** Ingeniería. Desarrollo de tecnologías
+
+¿es de carácter científico? (ciencias del diseño).
+¿qué hago cuando me enfrento a un problema?
+- multicausalidad
+- complejidad
+
+verdad es aquello que sirve y que puedo utilizar con cierto grado de
+confianza en un razonamiento.
+
+- simulaciones
+- la existencia de conocimiento no verbalizable (el perceptrón)
+
+el imaginario sobre el quehacer del ingeniero. ¿Es realmente
+matemática lo que se usa?
+
+Buena ciencia-ingeniería vs Mala ciencia-ingeniería
+
+** Feyerabend
+
+Feyerabend plantea que los niños no aprenden sólo por la
+argumentación durante la enseñanza, sino a "un proceso de crecimiento
+que se desarrolla con la fuerza de una ley natural. Y donde los
+argumentos parecen tener efecto, éste se debe más a menudo a su
+repetición física que a su contenido semántico. Después de admitir
+todo esto, hemos de aceptar también la posibilidad de crecimiento
+no-argumentativo en el adulto... debería esperarse que los cambios
+catastróficos del contorno físico, las guerras, el colapso de los
+sistemas de moralidad imperante, o las revoluciones políticas, habrán
+de transformar también los modelos de reacción del adulto, incluidos
+importantes modelos de argumentación. Esta transformación puede ser
+también un proceso completamente natural, y la única función de la
+argumentación racional quizás radique en aumentar la tensión mental
+que precede y **causa** la explosión de la conducta.
+
+Ahora bien, si son los eventos, no necesariamente los argumentos, la
+causa de que adoptemos nuevos criterios, incluyendo formas nuevas y más
+complejas de argumentación ¿no es cierto que los defensores del statu
+quo tendrán que aducir no sólo contra-argumentos, sino causas
+contrarias? ("la virtud sin el terror es ineficaz", dice Robespierre).
+Y si las viejas formas de argumentación resultan demasiado débiles
+para constituir una causa, ¿no deberán estos defensores o bien
+abandonar, o bien recurrir a medios más fuertes y más irracionales?
+(Es muy dificil(Pg 8-9).
+
+** Definiciones de verdad
+
+La verdad debería significar que lo que se afirma es tal como sucede
+en la realidad. pero tenemos el problema de la complejidad y de la
+multiplicidad de causas, y nuestra innegable limitación para
+comprender. entonces tenemos que buscar sustitutos a una definición
+que nos deja tan afuera. encontramos entonces esta cuestión de las
+aproximaciones sucesivas, pero tiene el problema que hemos
+descubierto, cada tanto nos damos cuenta de que la aproximación no
+nos aproxima, como cuando la física clásica se vuelve relativista. el
+cambio de paradigma es tan grande... otra definición más interesante
+es la verdad como aquello que maximiza la coherencia de un conjunto
+de ideas (un paradigma).
+
+** Desconfiar de las observaciones
+
+Cuando Franco hablaba sobre el modo "respetable" de producir
+discursos (actos de habla de un cierto tipo, como en la producción
+periodística de Rodolfo Walsh) remarcaba la necesidad de sostener ese
+discurso en datos "objetivos de la realidad": documentos,
+testimonios, estadísticas, etc. A primera vista podría parecer
+parecer obvio que basta con esto. Pero podemos plantear algunas
+preguntas: son todos los testimonios honestos, cómo se valoran los
+datos que son contradictorios (porque la realidad no siempre se
+expresa de manera coherente). Por ejemplo: los economistas, que usan y
+analizan variables matemáticas y utilizan modelos computacionales,
+pueden sacar conclusiones opuestas de sus estudios. Hay evidentemente
+datos que es preciso desechar, como ciertas afirmaciones
+gubernamentales sobre tal o cual cosa, o ciertas operaciones
+periodísticas que presentan un velo demasiado endeble respecto de lo
+que pretenden (no la verdad, sino otra cosa). No parece saludable
+aceptar todo esto basado en la complejidad de los sistemas, porque hay
+mentiras que se revelan ante el análisis. Pero hay que tener cuidado
+de afirmar que siempre la realidad es cognoscible, registrable,
+medible. Hay muchas interpretaciones que son necesariamente erroneas a
+la luz de una inspección metódica, pero hay otras que son más
+difíciles de desechar, porque aparecen ahí indicios contradictorios,
+información que no es concluyente (como en el ejemplo de los
+experimentos para mostrar que la tierra gira tirando una piedra desde
+una torre).
+
+Cita de Einstein, Fey. Pg 41 (nota al pie) "Es realmente extraño que
+los hombres sean, por lo general, insensibles a los más fuertes
+argumentos mientras que siempre están inclinados a sobrevalorar la
+exactitud de las mediciones." (podría buscar cosas sobre la oposición
+entre físicos teóricos y físicos experimentales)

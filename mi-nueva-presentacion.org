@@ -1,47 +1,46 @@
-#+TITLE La única verdad es la incertidumbre
-#+AUTHOR Diego Fainstein
+#+TITLE: La única verdad es la incertidumbre
+#+DESCRIPTION: Apuntes personales acerca del conocimiento en las ciencias
+#+AUTHOR: Diego Fainstein
+#+DATE:
+#+OPTIONS: toc:nil
+
+#+LaTeX_CLASS_OPTIONS: [a4paper]
+#+LANGUAGE: es
+#+LATEX_HEADER: \usepackage[spanish]{babel}
 
 * Aclaración
 
-Voy a hablar sobre la Verdad teniendo en cuenta mis experiencias
-laborales e inquietudes personales. Me parece importante aclarar que
-mis opiniones, reflexiones y puntos de vista están construidos desde
-lo que sería una "visión del usuario". Esto es diferente a una
-exposición hecha por un experto, que en este caso sería un
-epistemólogo. No voy a citar a Habermas, ni a Hegel, ni a Marx. Sin
-embargo, esto no es una invitación a que desprecien mis palabras,
-puesto que -como veremos- la palabra de los expertos no es la única
-que puede contribuir a la construcción de un campo del conocimiento.
+Me parece importante aclarar que mis opiniones, reflexiones y puntos
+de vista están construidos desde lo que sería una "visión del
+usuario", a partir de mis experiencias laborales y mis lecturas. Esto
+es diferente a una exposición hecha por un experto, que en este caso
+sería un epistemólogo. No voy a citar a Habermas, ni a Marcuse, ni a
+Hegel, exclusivamente porque no los he leído. Sin embargo, yo creo que
+la palabra de los expertos no es la única que puede contribuir a la
+construcción del conocimiento, así que los invito a escucharme y a
+dialogar o debatir.
 
-De todos modos, siempre es posible que algunas de mis
-observaciones puedan ser consideradas superficiales, superadas o
-directamente erroneas por epistemólogos o incluso por un público no
-especializado. En ese caso, espero que estén atentos a señalarlo, y
-espero que lo manifiesten ya sea durante la exposición o al final.
+De todos modos, siempre es posible que algunas de mis observaciones
+puedan ser consideradas superficiales, superadas o directamente
+erroneas. En ese caso, espero que estén atentos y lo señalen, tanto
+durante la exposición como al final.
 
-También quiero advertir que mi expectativa no es convencer a quienes
-me escuchan sobre la validez de mis afirmaciones, sino que el éxito de
-esta charla será el cuestionar diferentes perspectivas sobre la verdad
-y sobre las ciencias, de modo que no estemos cómodos ni afirmando que
-el conocimiento científico es despreciable ni encumbrándolo como a un
-ídolo indiscutible.
+También quiero advertir que mi expectativa no es convencer sobre la
+validez de mis afirmaciones, sino cuestionar algunas perspectivas
+demasiado idealizadas acerca de las ciencias, que se dan justamente en
+los ámbitos en que he trabajado. Mis reflexiones surgen en respuesta a
+un modo dominante de hacer ciencia, diseñar tecnología y enseñar. Mi
+propósito con esta presentación es incomodar esas concepciones para
+que nadie esté cómodo ni afirmando que el conocimiento científico del
+modo en que lo conocemos es despreciable ni encumbrándolo como a un
+ídolo único e indiscutible.
 
-**A veces la discusión es entre ciencia vs no-ciencias, cuando la
-dicotomía más peligrosa es buena ciencia vs mala ciencia.**
-
-Otra cosa a tener en cuenta es que en el contexto de una interminable
-oposición con filosofías y organizaciones oscurantistas, desde el
-Estado Islámico que impone la Sharia a sangre y fuego en Irak y Siria,
-hasta las organizaciones censuradoras que pretenden imponer la censura
-global controlando internet, es preciso decir que estamos del lado de
-libertad, de la ilustración, de la racionalidad y de la oposición a
-todo oscurantismo. El propósito de esta charla, en cambio, tiene que
-ver con cuestionar lo que hay de oscuro en donde debería primar la luz.
-
-
-**(sobre el final puedo retomar esto para decir que tampoco sostengo la
-filosofía popular de que el punto medio entre dos extremos es siempre
-pmejor).**
+Esto me preocupa un poco porque en el mundo se extienden y fortalecen
+distintas formas de fundamentalismo e irracionalidad, con lo cual
+parecería que es irresponsable cuestionar a aquello que se identifica
+con la razón y la libertad. Sin embargo acallar la crítica agitando
+"el fantasma de la derecha" nos convertiría justamente en aquello que
+rechazamos.
 
 * Mis ámbitos de trabajo.
 
@@ -76,28 +75,31 @@ Unidos.
 
 Trabajé dentro de grupos que se ocupan de dos grandes temas:
 
-- Uno es la variabilidad de la frecuencia cardíaca: a partir del
-registro del electrocardiograma mediante electrodos superficiales se
-calcula la frecuencia cardíaca, que va variando latido a latido, y se
-trata de correlacionar esa información con diversos estados
-fisiológicos y fisiopatológicos (como el estrés), para obtener un
-índicador clínico de la condición de salud o enfermedad del
-paciente.
+  1. Uno es la variabilidad de la frecuencia cardíaca: a partir del
+     registro del electrocardiograma mediante electrodos superficiales
+     se calcula la frecuencia cardíaca, que va variando latido a
+     latido, y se trata de correlacionar esa información con diversos
+     estados fisiológicos y fisiopatológicos (como el estrés), para
+     obtener un índicador clínico de la condición de salud o
+     enfermedad del paciente.
 
-- El otro tema es el fenómeno de excitación-contracción: se trata de
-indagar en los mecanismos celulares involucrados desde que llegan los
-impulsos nerviosos a las células cardíacas, hasta que éstas se
-contraen, y logran en conjunto y coordinadamente que el
-corazón realice su función de bomba.
-
-**Y próximamente me voy a trabajar a un instituto del Conicet, no como
-investigador, sino como "personal de apoyo" (un cargo técnico).**
+  2. El otro tema es el fenómeno de excitación-contracción: se trata
+     de indagar en los mecanismos celulares involucrados desde que
+     llegan los impulsos nerviosos a las células cardíacas, hasta que
+     éstas se contraen, y logran en conjunto y coordinadamente que el
+     corazón realice su función de bomba.
 
 *** División del campo
 
-Las tareas de investigación "pura" y de desarrollo de tecnología están
-relacionadas y se necesitan mutuamente, pero prefiero separarlas en
-beneficio del abordaje del problema de la verdad.
+Voy a presentar algunas ideas sobre la verdad diferenciando entre
+especificidades en estos tres campos: ciencias, tecnologías y
+enseñanza.
+
+Quería aclarar que la división es arbitraria y tiene más que ver con
+tratar de presentar las ideas en forma ordenada y secuencial que en
+hacer una diferenciación analítica seria. Las tareas de investigación
+"pura" y de desarrollo de tecnología están relacionadas y se necesitan
+mutuamente.
 
 En general las ideas más difundidas y discutidas de las diferentes
 escuelas epistemológicas, desde el positivismo en adelante, se
@@ -112,20 +114,15 @@ del diseño") tienen particularidades, ya que su objetivo no es tanto
 comprender el mundo sino operar sobre él, mediante la creación o
 modificación de procesos o instrumentos para cambiar nuestro entorno.
 
-A la vez hay que tener en cuenta que esta diferenciación se vuelve
-artificial cuando advertimos que las ciencias básicas requieren de
-tecnologías más sofisticadas para permitir la realización de
-experimentos, mientras que el descubrimiento de las leyes naturales
-habilita al avance de la técnica.
-
-Recordatorio de una aclaración previa: hay diversos modos de
-comprender y analizar la ciencia y la tecnología. A esto me refería
-cuando decía que quizás un experto epistemólogo plantearía de modo
-diferente esta clasificación.
+Debe tenerse en cuenta que esta diferenciación se vuelve difusa dado
+que las ciencias básicas requieren de tecnologías más sofisticadas
+para permitir la realización de experimentos, mientras que el
+descubrimiento de las leyes naturales habilita al avance de las
+ciencias del diseño.
 
 En ambos casos mi participación principal tuvo más que ver con la
-construcción de instrumentos de medición para obtener información de
-en cada uno de estos dos campos. No trabajé directamente en la
+construcción de instrumentos de medición para obtener información en
+cada uno de estos dos campos. No trabajé directamente en la
 elaboración de teorías y experimentos, sino en posibilitar estos
 últimos, pero en ambos estuve en contacto con investigadores "básicos"
 y sus discusiones acerca de las incógnitas del campo de estudio, las
@@ -138,38 +135,56 @@ En los ámbitos que conozco las personas son realistas duras, que
 asumen la existencia de una realidad objetiva, independiente de los
 seres humanos, de nuestros deseos, de nuestros sentidos. La mayoría,
 sino todos, creen que la realidad es tal cual la registramos con
-nuestros instrumentos, realidad que vamos comprendiendo cada vez mejor
-mediante teorías que son progresivamente explicativas (es decir que no
-son instrumentalistas). Entonces si la realidad existe la verdad es
-todo aquello que podemos afirmar sobre el mundo y que se corresponde
-con nuestra experiencia sobre ese mundo.
+nuestros equipos. Los instrumentos nos muestran lineas que se dibujan
+en el monitor o números en el panel frontal de un amplificador, y a
+través de ellos vemos (o quizás imaginamos) proteinas cambiando de
+forma, iones que se desplazan a través de una membrana, impulsos
+nerviosos que chocan con células muertas. Entrenados en la
+interpretación de estas observaciones, se desarrolla una familiaridad
+con las teorías que permite ir comprendiendo los fenómenos con una
+profundidad cada vez mayor. En lo que Kuhn llamaría un período de
+ciencia normal vamos desarrollando progresivamente el conocimiento
+mediante teorías y experimentos cada vez más explicativos. No advierto
+instrumentalismo: lo que registramos es lo que existe en realidad, hay
+correspondencia entre nuestras afirmaciones y la estructura de lo que
+investigamos.
 
-En este ambiente la realidad se analiza a través de los datos que se
-acopian al experimentar. Estos experimentos se diseñan para obtener
-información útil sobre un proceso. Para ello se tratan de establecer
-con precisión condiciones controladas para que la información obtenida
-pueda ser analizada en busca de relaciones entre variables,
-dependencia con ciertos parámetros, relaciones de causalidad y cosas
-por el estilo. También se realizan experimentos para ver el mismo
+Los experimentos se diseñan para obtener información útil sobre un
+proceso. Para ello se establecen condiciones de manera que la
+variación controlada de un solo parámetro sea el que provoca los
+cambios que se pueden registrar con los instrumentos de medición. Por
+ejemplo, se registra la diferencia de potencial entre el interior y el
+exterior de una célula, manteniéndola inmersa en una solución que la
+mantiene con vida, pero siempre con el mismo pH, las mismas
+concentraciones de glucosa, bicarbonato, etc. De este modo se puede
+investigar, por ejemplo, cómo responde el potencial a cambios en la
+temperatura, sabiendo que los cambios no pueden deberse a variaciones
+en el contenido de la solución fisiológica. La información obtenida se
+analiza en busca de relaciones entre la variable testeada y distintos
+parámetros del registro, con el propósito de encontrar correlaciones y
+causalidades. También se realizan experimentos para ver el mismo
 fenómeno con diferentes técnicas, lo cual puede ofrecer información
 nueva. Si el planteo de un experimento fuera caótico, o si estuviese
-diseñado inadecuadamente, los resultados no permitirían concluir
-nada. La realidad se describe con esquemas, ecuaciones, modelos,
-analogías, fotografías, registros temporales de la evolución de
-distintas variables, reglas, tablas de probabilidades, etc.
+diseñado inadecuadamente, los resultados no permitirían concluir nada.
 
-Para los científicos si un fenómeno ocurre tiene una o varias causas y
-distintos efectos, y no tiene mucho sentido realizar suposiciones que,
-a la luz de nuestros saberes actuales, resulten irracionales si se
-pretende cierta eficiencia en el proceso de develar lo
-desconocido. Suele haber un marco teórico a la luz del cual se
-interpretan los resultados. Si hay que explicar cómo se limita la
-cantidad de iones de calcio que ingresan a la célula cardíaca cuando
-llega un impulso nervioso, una explicación relacionada con las fuerzas
-sutiles del lado oscuro o con la memoria cuántica de la flecha del
-tiempo obviamente que sería impublicable, salvo en revistas
-literarias. El canal de calcio funciona siempre de la misma manera en
-condiciones semejantes y hay ciertas limitaciones en cuanto a las
+De acuerdo a lo que se investiga, la realidad puede describirse con
+esquemas, ecuaciones, modelos, analogías, fotografías, registros
+temporales de la evolución de distintas variables, reglas, tablas de
+probabilidades, etc.
+
+Si un fenómeno ocurre tiene una o varias causas y distintos efectos, y
+no tiene mucho sentido realizar suposiciones que resulten irracionales
+a la luz de nuestros saberes actuales. Esto es así porque se pretende
+cierta eficiencia en el proceso de develar lo desconocido. Hay un
+marco teórico a la luz del cual se interpretan los resultados. Si hay
+que describir cómo se limita la cantidad de iones de calcio que
+ingresan a la célula cardíaca cuando llega un impulso nervioso, una
+explicación relacionada con las fuerzas sutiles del lado oscuro o con
+la memoria cuántica de la flecha del tiempo sería impublicable, salvo
+en revistas literarias, o en revistas de dudosa calidad científica. Se
+supone también que la naturaleza funciona con regularidad, es decir
+que --por ejemplo-- un canal de calcio tiene siempre la misma cinética
+en condiciones semejantes y hay ciertas limitaciones en cuanto a las
 variables a las cuales podemos atribuir participación en el fenómeno,
 de acuerdo al conocimiento actual.
 
@@ -191,8 +206,10 @@ de los artículos que aparecen en las revistas especializadas y también
 los evaluadores en las instituciones que otorgan el presupuesto para
 continuar las investigaciones. Frecuentemente cuando un artículo es
 rechazado o cuando se pierde un subsidio se duda sobre la
-imparcialidad o la pericia de los evaluadores (sobre esto quizás
-agrego algo más adelante).
+imparcialidad o la pericia de los evaluadores antes que de la
+debilidad de los propios argumentos. No voy a desarrollar estos
+aspectos sociológicos de la investigación científica, aunque me
+resultan muy interesantes y explicativos de la actividad.
 
 ** Problemas reales
 
@@ -219,32 +236,34 @@ Muchas cosas pueden salir mal y suele destinarse mucho tiempo a
 depurar los experimentos, ajustar los instrumentos para que su
 funcionamiento sea sólido, consistente, inmune a las perturbaciones.
 
-Cuando de la experimentación en relación con un problema disciplinar
-se obtienen resultados divergentes, al utilizar las mismas
-herramientas o cuando se ponen en juego distintas metodologías (pero
-siempre sobre el mismo proceso), el motivo puede estar en que
-efectivamente se estén produciendo errores sistemáticos en la
-metodología empleada (es decir que se pueden solucionar respondiendo a
-las preguntas que hacía antes) o puede ser que la evidencia sea
-efectivamente caótica porque el sistema que se analiza tiene una
-complejidad tal que pequeñas variaciones en un parámetro producen
-grandes efectos, o quizás la presencia de una variable desconocida
-tiene una influencia que no podemos advertir, o incluso puede ser que
-la teoría que subyace a nuestras observaciones no nos permite valorar
-adecuadamente lo que observamos. Y estos son los únicos problemas que
-pueden aparecer.
+Cuando se obtienen resultados dispares, al utilizar las mismas
+herramientas o al usar diferentes metodologías para analizar el mismo
+proceso, el motivo de la disparidad puede estar en que efectivamente
+se estén produciendo errores sistemáticos (que se podrán solucionar
+respondiendo a preguntas como las que formulé recién) o puede ser
+que la evidencia sea efectivamente caótica porque el sistema que se
+analiza tiene una complejidad tal que pequeñas variaciones en un
+parámetro producen grandes efectos, o quizás la presencia de una
+variable desconocida tiene una influencia que no podemos advertir, o
+incluso puede ser que la teoría que subyace a nuestras observaciones
+no nos permite valorar adecuadamente lo que observamos. Tengamos en
+cuenta que lo que observamos a través de nuestras sensaciones e
+instrumentos está sometido a la interpretación que hacemos de los
+datos, para lo cual siempre estamos utilizando teorías, nos demos
+cuenta de esto o no. Y estos no son los únicos problemas que pueden
+aparecer.
 
 *** Ejemplo: geo y heliocentrismo.
 
-Para ilustrar esto voy a comentar brevemente el ejemplo más
-paradigmático respecto de la oposición entre ciencia y religión. Desde
-el s IV ac hasta el siglo XVI se mantuvo mayoritariamente aceptado el
+Para ilustrar esto voy a comentar brevemente uno de los ejemplos más
+paradigmáticos respecto de la oposición entre ciencia y religión. Desde
+el siglo IV(ac) hasta el siglo XVI se mantuvo mayoritariamente aceptado el
 modelo geocéntrico propuesto por Ptolomeo y Aristóteles, el cual
 contaba con la bendición de la Iglesia Católica y su eficaz máquina
 propagandística, incluyendo la técnica publicitaria conocida como
 Inquisición (ja). Durante el Renacimiento, Galileo construye varios de
 los primeros telescopios (aunque no es su inventor) y realiza
-observaciones (como por ejemplo de las lunas de Saturno) que permiten
+observaciones (como por ejemplo de las lunas de Jupiter) que permiten
 cuestionar el modelo geocéntrico. A pesar de que conocemos el
 desenlace, y sabemos que la teoría geocéntrica es incorrecta, voy a
 utilizar el ejemplo para mostrar que las observaciones de Galileo y de
@@ -255,26 +274,28 @@ geocéntricas le otorgan al empirismo una fortaleza inmerecida.
 
 Hay al menos dos aspectos del problema que me gustaría plantear:
 
-Los conocimientos de óptica de Galileo no eran suficientes para que
-resultaran incuestionables las observaciones hechas con el
+*Punto 1* Los conocimientos de óptica de Galileo no eran suficientes
+para que resultaran incuestionables las observaciones hechas con el
 telescopio. Una cosa es que se pudiera comprobar que con este nuevo
 instrumento se podía ampliar una imagen conocida dentro de la Tierra,
 y otra es que pudiese funcionar de manera confiable para observar
 objetos celestes. Por ejemplo: ¿era posible entender qué significaban
 las distorsiones de los sistemas primitivos de lentes o sospechar el
-efecto de la refracción en la atmósfera terrestre? ¿Pensamos que los
-telescopios de Galileo ofrecían una calidad de imagen comparable al
-telescopio de la Asociación Entrerriana de Astronomía?  Gran parte de
-la física óptica necesaria para comprender el telescopio no estaba al
-alcance de Galileo y fue desarrollada después. Además las
+efecto de la refracción en la atmósfera terrestre? ¿Acaso pensamos que
+los telescopios de Galileo ofrecían una calidad de imagen comparable a
+los disponibles en la Asociación Entrerriana de Astronomía?  Gran
+parte de la física óptica necesaria para comprender el telescopio no
+estaba al alcance de Galileo y fue desarrollada después. Además las
 observaciones eran inconexas también con las predicciones de la teoría
 copernicana, por ejemplo el hecho de que las dimensiones de los
 planetas a lo largo de su órbita no coincidían con las diferencias que
-anticipaba esta teoría. Para plantear una analogía podríamos sustituir
-el instrumento "telescopio" por el instrumento "Wikipedia". Si no
-supiésemos cómo funciona quizás empezamos a usarla para buscar ciertas
-definiciones y vemos que los resultados que nos ofrece coinciden con
-información que ya conocíamos o que previamente buscamos en otra
+anticipaba esta teoría.
+
+Para plantear una analogía podríamos sustituir el instrumento
+"telescopio" por el instrumento "Wikipedia". Si no supiésemos cómo
+funciona quizás empezamos a usarla para buscar ciertas definiciones y
+vemos que los resultados que nos ofrece coinciden con información que
+ya conocíamos o que previamente buscamos en otra
 enciclopedia. ¿Alcanza con eso para confiar en que toda la información
 que en adelante busquemos en Wikipedia será veraz?  Por supuesto que
 no, y esto no quiere decir que la información de la Wikipedia no sirva
@@ -285,15 +306,15 @@ mediante rayos X, tomografía computada, resonancia magnética,
 tomografía de emisión de positrones y demás, nos brindan información
 que no todos estamos en condiciones de interpretar y además, aquellos
 que sí lo están, no siempre pueden efectuar lecturas carentes de
-errores a partir de ellas. Siempre hay una interrelación entre
-observación y teoría, lo cual vuelve dificil aceptar que haya
-posibilidad de efectuar observaciones puras que puedan fortalecer o
-debilitar puntos de vista en conflicto. En el lenguaje de la
-epistemología se suele decir que las observaciones están imbuidas de
-teoría.
+errores a partir de ellas o lecturas coincidentes entre sí. Siempre
+hay una interrelación entre observación y teoría, lo cual vuelve
+dificil aceptar que haya posibilidad de efectuar observaciones puras
+que puedan fortalecer o debilitar puntos de vista en conflicto. En el
+lenguaje de la epistemología se suele decir que las observaciones
+están imbuidas de teoría.
 
-En segundo lugar, volviendo al ejemplo de Galileo, se puede afirmar
-que había elementos empíricos también en el campo de los
+*Punto 2* En segundo lugar, volviendo al ejemplo de Galileo, se
+puede afirmar que había elementos empíricos también en el campo de los
 aristotélicos. Por ejemplo: para sostener que la Tierra no se movía
 planteaban el siguiente experimento. Si se deja caer una piedra desde
 una torre muy alta y la Tierra se mueve, sería razonable que la piedra
@@ -304,13 +325,13 @@ lanzan en direcciones opuestas con la misma fuerza, deberían recorrer
 distinta distancia. Faltaba la noción de inercia, para explicar estos
 dos hechos contradictorios con la tesis heliocéntrica. Lo que muestran
 estos ejemplos es que la obviedad de una hipótesis recién se logra
-mucho tiempo después de que teorías opuestas diferentes disputan cuál
-es aquella con mayor contenido de verdad.  Con esto podemos apreciar
-que cuando el conocimiento trata de expandirse sobre terreno
-desconocido se enfrenta con desafíos que no son tan triviales como lo
-proponen positivistas y falsacionistas. Quizás estas reflexiones nos
-permitan esquivar el peligro de convertirnos en dogmáticos defensores
-del empirismo.
+mucho tiempo después de que teorías rivales disputan cuál es aquella
+con mayor contenido de verdad.  Con esto podemos apreciar que cuando
+el conocimiento trata de expandirse sobre terreno desconocido se
+enfrenta con desafíos que no son tan triviales como lo proponen
+positivistas y falsacionistas. Quizás estas reflexiones nos permitan
+esquivar el peligro de convertirnos en dogmáticos defensores del
+empirismo.
 
 Para un estudio detallado de cómo se dio la conversión del
 geocentrismo al heliocentrismo se puede leer "Tratado contra el
@@ -319,37 +340,43 @@ método" de Paul Feyerabend.
 En conclusión, la contrastación empírica parece cobrar más fuerza
 cuando ya se ha desarrollado la teoría, y cuando no se trata solamente
 de un solo tipo de observación sino que ya existe un entramado de
-argumentos que fortalecen un modelo explicativo.
+argumentos que fortalecen un modelo explicativo por sobre otro.
 
 ** Sistemas complejos: especialización y holismo.
 
-La verdad de una afirmación científica tiene que ver con la adecuación
-a la realidad. Pero hay distintos niveles de verdad en el
-conocimiento. Cuando se trabaja sobre un sistema complejo, se pueden
-hacer afirmaciones verdaderas, pero que no tienen mucho contenido
-descriptivo o explicativo, o son limitadas en cuanto a que permiten
-comprender elementos parciales pero no alcanzan para entender qué
-sucede o cómo funciona el sistema completo. Esto no quiere decir que
-las verdades limitadas sean despreciables, pero nos advierte sobre los
-alcances de los saberes que tenemos.
+*** Introducción
 
-*** Ejemplo: excitación-contracción
+La ciencia logra una comprensión relativamente profunda de algunos
+aspectos de la realidad. En algunos casos nos resulta evidente la
+correspondencia entre las consecuencias que podemos experimentar
+respecto de una teoría y la propia realidad. ¿Es aceptable cuestionar
+la ciencia teniendo en cuenta sus logros? ¿Nos convierte eso en
+apóstatas que en aras de la coherencia deberían renunciar a los
+tratamientos médicos modernos y al uso del whatsapp? Para mi no se
+trata de rechazar esta forma de conocer sino de advertir que hay
+distintos niveles de verdad en el conocimiento científico. Cuando se
+trabaja sobre un sistema complejo, se pueden hacer afirmaciones
+verdaderas, pero cuyo alcance descriptivo o explicativo tiene límites.
+
+*** La complejidad del fenómeno de excitación-contracción
 
 Para estudiar el fenómeno de excitación-contracción hay muy diversas
 técnicas y aproximaciones. Se pueden realizar mediciones eléctricas u
 ópticas, con preparados de células aisladas o sobre porciones de
 tejido o incluso en corazones enteros, sobre diversos modelos
 animales: ratón, conejo, rata, cerdo, etc. Algunos métodos se utilizan
-mucho porque son relativamente fáciles de utilizar, o porque el éxito
-de alguna investigación les dio impulso y se popularizaron. Pero
-justamente ocurre lo siguiente: los resultados obtenidos son
-contradictorios. Lo que sucede en la célula aislada es diferente a lo
-que sucede en el corazón completo, y por lo tanto, lo que se descubre
-sobre los mecanismos en un nivel de organización celular no es tan
-fácil de extrapolar para comprender lo que sucede en el órgano
-completo. No quiere decir que lo que averiguamos tras fraccionar el
-sistema es inútil, sino que es limitado lo que podemos saber si sólo
-hacemos estudios analíticos.
+mucho porque son relativamente económicos o fáciles de implementar, o
+porque el éxito de alguna investigación les dio impulso y se
+popularizaron. Pero justamente ocurre lo siguiente: los resultados
+obtenidos son contradictorios. Lo que sucede en la célula aislada es
+diferente a lo que sucede en el corazón completo, y por lo tanto, lo
+que se descubre sobre los mecanismos en un nivel de organización
+celular no es tan fácil de extrapolar para comprender lo que sucede en
+el órgano completo. No quiere decir que lo que averiguamos tras
+fraccionar el sistema es inútil, sino que es limitado lo que podemos
+saber si sólo hacemos estudios analíticos.
+
+*** La medicina y la materialidad ingenua
 
 Esto que sucede a nivel celular y tisular se amplifica cuando tratamos
 de comprender los macrosistemas. Al considerar el cuerpo completo de
@@ -357,14 +384,67 @@ una persona es indeterminada la cantidad de variables
 interrelacionadas que tienen efecto sobre la porción del cuerpo que
 pretendemos investigar. Es necesario un estudio de las partes, pero el
 funcionamiento de la totalidad no es solamente la suma del
-funcionamiento de las individualidades. En el sistema completo
-(obviamente cuando hablo de sistemas también me refiero a sistemas
-sociales) se dan interacciones múltiples y complejas que modulan el
-comportamiento de los componentes individuales. En este sentido me
-parece que hay que atenuar el entusiasmo por los resultados de la
-investigación científica basada en la especialización. No es tampoco
-fácil pensar en un modo de producción de conocimientos más holístico e
-interdisciplinario que no caiga en la improductividad.
+funcionamiento de las fracciones. En el sistema completo (algo
+también aplicable a los sistemas sociales) se dan interacciones
+múltiples y complejas que modulan el comportamiento de los componentes
+individuales.
+
+Pensemos el caso del cuerpo humano, el cual en la medicina científica
+tradicional tiende a explicarse desde una perspectiva
+mecanicista. Tras una corta búsqueda en PubMed se pueden encontrar
+títulos como estos: /Asociación entre los genes del receptor de
+dopamina con la infidelidad y la promiscuidad sexual/, /Correlaciones
+neurales del perdón a las transgresiones morales que implican engaño/
+(estudios realizados con PET), /La genética de las adicciones/,
+etc. Indudablemente hay correlaciones entre la base física y nuestras
+emociones y comportamientos, pero hay acá un detalle sobre el que
+quisiera ahondar.
+
+El descubrimiento en el mundo occidental, por parte de William Harvey
+en el siglo XVII, de que la sangre es impulsada a través de arterias y
+venas por el corazón (que funciona como una bomba hidráulica) recién
+se logró cuando se desarrollaron los conceptos físicos que permitían
+concebir este esquema. Tomar un modelo de un sistema que comprendemos,
+para explicar otro aún bajo investigación, puede abrirnos la
+posibilidad de grandes descubrimientos. Sin embargo, si nos
+entusiasman los excelentes resultados de esta estrategia y nos
+quedamos prisioneros de una concepción mecanicista del Hombre,
+podríamos llegar a creer que todo puede ser explicado en términos
+materiales simples; es decir que el funcionamiento de nuestro cuerpo,
+nuestro comportamiento, emociones y decisiones pretendería ser
+explicado en función de enlaces químicos, información genética y masas
+en movimiento. La vinculación es innegable, pero es insuficiente como
+explicación, como instrumento de comprensión.
+
+*** Materialistas analizan una computadora
+
+Imaginemos esta situación: un grupo de materialistas ingenuos se
+encuentran una computadora moderna que en su mundo no existe. ¿Van a
+ser capaces de explicar el funcionamiento de la misma a través de
+mediciones sobre sus componentes físicos? Tras una enorme cantidad de
+experimentos muy sofisticados de expertos en la química del silicio,
+en física eléctrica, en termodinámica y transferencia de calor, es
+evidente que sabrán mucho de las distintas partes de la computadora,
+pero desconocerán lo esencial de ella, la existencia de lo que
+llamamos software, es decir el conjunto de instrucciones que organizan
+el funcionamiento de la máquina. Este software carece prácticamente de
+correlato en el mundo físico, y de hecho puede funcionar igual en
+distintos soportes (distintos microprocesadores), así que es casi
+imposible de ver aún cuando se examine el hardware con microscopios
+electrónicos y osciloscopios. En otras palabras, la realidad puede ser
+reconocida limitadamente de acuerdo a la utilización de un tipo de
+prácticas de investigación. ¿Calificarían de pseudo-científicos a los
+que planteasen que el comportamiento de la computadora tiene que ver
+con un aparato psíquico inmedible o con un /espíritu/? ¿Será razonable
+limitar las teorizaciones sobre el funcionamiento de la computadora a
+lo que experimentable mediante la interacción con la pantalla y el
+teclado (es decir mediante una forma de psicología del
+comportamiento)? Lo que quiero mostrar es que hay criterios de
+demarcación del conocimiento científico que reducen lo susceptible de
+conocerse a aquello medible y de materialidad más ingenua. Concebir la
+ciencia de esta manera puede llevarnos a rechazar modos de conocer la
+realidad más sujetos a la especulación, y a calificar a aquello que
+cae fuera de pura charlatanería.
 
 *** Lenguaje
 
@@ -393,40 +473,74 @@ limitaciones. En informática se han desarrollado enorme cantidad de
 lenguajes y dialectos con el propósito de dar mejor respuesta a
 diferentes problemas. Por ejemplo para escribir programas de
 inteligencia artificial suele usarse Lisp o Prolog u otros
-semejantes. No cualquier lenguaje tiene la potencia para resolver
-todos los problemas informáticos. Del mismo modo,
-podemos pensar que la utilización de un lenguaje en particular, sea el
+semejantes. No cualquier lenguaje tiene la misma potencia para
+resolver todos los problemas informáticos. Del mismo modo, podemos
+pensar que la utilización de un lenguaje en particular, sea el
 castellano, o el lenguaje de la química, o las matemáticas, limitan la
-manera en como pensamos, describimos y explicamos la realidad. Para
-dar un ejemplo pobre pero cercano: algunas instituciones relacionadas
-con la educación utilizan ciertos indicadores matemáticos para dar
-cuenta de lo que entienden como "calidad de la enseñanza". Cuantifican
-la relación del número de docentes al número de alumnos, la cantidad
-de alumnos aprobados y el promedio de las notas. Creen que de esta
-manera tienen información sobre el sistema educativo. Por supuesto que
-logran construir a partir de estas observaciones una descripción, pero
-dudo mucho de que puedan comprender realmente la complejidad de lo que
-sucede en las aulas.
+manera en como pensamos, describimos y explicamos la realidad.
 
-** La verdad como un entramado autocoherente.
+La matemática incluso, como lenguaje aparentemente objetivo, no
+garantiza la comprensión:
 
-Hay una imagen que se me presenta cuando imagino la forma de nuestras
-nuestras concepciones sobre el mundo. Quizás en algunos casos cuando
-los sistemas que estudiamos son menos complejos, efectivamente podamos
-pensar que la verdad describe a la realidad tal cual es. Pero en los
-sistemas más complejos e interesantes este ajuste es dificultoso de
-lograr. Es más razonable pensar que las verdades que podemos producir
-tienen puntos de contacto con la realidad pero parte de nuestras
-afirmaciones sólo son verdad en tanto mejoran la coherencia del modelo
-explicativo (esto sería como una postura instrumentalista) y no
-necesariamente estén estas "verdades" tan ajustadas a la realidad
-verdadera. Verdades, entonces, serían aquellas afirmaciones que
-tiendan a que el modelo explicativo sea cada vez más autocoherente,
-como si estuviésemos construyendo una tela de araña donde sus puntos
-de apoyo fuesen las comprobaciones empíricas que nos muestran el
-ajuste a la realidad, mientras que las teorías son hilos que tratan de
-fortalecer la estructura de la tela, aún cuando no necesariamente
-brinden muestras inequívocas de estar vinculadas con la realidad.
+Por ejemplo, algunas instituciones relacionadas con la educación, como
+la propia facultad de ingeniería, utilizan ciertos indicadores
+matemáticos para dar cuenta de lo que entienden como /calidad de la
+enseñanza/. Cuantifican la relación del número de docentes al número
+de alumnos, la cantidad de alumnos aprobados y reprobados en cada
+cuatrimestre, y el promedio de las notas. Creen que de esta manera
+tienen información sobre el sistema educativo. Por supuesto que logran
+construir a partir de estas observaciones una descripción, pero dudo
+mucho de que puedan comprender realmente lo que sucede en las aulas.
+
+Otro ejemplo de manipulación de la realidad con herramientas
+matemáticas puede ser la descripción de la economía mediante la
+selección arbitraria de parámetros.
+
+*** La verdad como un entramado autocoherente.
+
+Hay una imagen que se me presenta cuando imagino la forma de  nuestras
+concepciones sobre el mundo: la de una tela de araña. Quizás en
+algunos casos cuando los sistemas que estudiamos son menos complejos,
+efectivamente podamos pensar que la verdad describe a la realidad tal
+cual es. Pero en los sistemas más complejos e interesantes este ajuste
+es dificultoso de lograr. Es más razonable pensar que las verdades que
+podemos producir sólo tienen algunos puntos de contacto con la
+realidad mientras que gran parte de nuestras afirmaciones sólo son
+verdad en tanto mejoran la coherencia de nuestros modelos explicativos
+(esto sería como una postura instrumentalista) sin que estén tan
+ajustadas a la realidad. Verdades, entonces, serían aquellas
+afirmaciones que tiendan a que el modelo explicativo sea cada vez más
+autocoherente, como si estuviésemos construyendo una tela de araña
+donde sus puntos de apoyo fuesen las comprobaciones empíricas y las
+teorías fuesen hilos que deben fortalecer la estructura de la tela,
+aún cuando no necesariamente brinden muestras inequívocas de estar
+vinculadas con la realidad.
+
+*** Conclusión
+
+Pretendo señalar que la ciencia puede no abarcar al objeto de estudio
+en su totalidad. Debemos ser concientes de las limitaciones que impone
+la investigación científica basada en la especialización. No es
+tampoco fácil pensar en un modo de producción de conocimientos más
+holístico e interdisciplinario que no caiga en la improductividad o el
+cualquierismo.  De todos modos está claro el peligro de negar todo
+aquello que no se comprende. La investigación científica debería
+mantener apertura y flexibilidad, aún cuando se corra el riesgo de
+elaborar conocimientos y teorías espúreas.
+
+Lo fundamental en ciencias no me parece que deban ser los métodos de
+investigación y el empirismo, sino el apego a la crítica, la admisión
+de una pluralidad de ideas en conflicto, y la evasión de toda forma de
+dogmatismo. Esto quizás le quita certeza, nos sumerge en un mundo de
+incertidumbres, pero le agrega potencia a nuestra capacidad de
+conocer. Tener esto presente también nos habilita a reconocer el valor
+de las disciplinas que no necesitan ser científicas para producir
+conocimiento (la filosofía en general, la metafísica en particular, la
+política, psicología, etc).
+
+Por supuesto que toda esta propuesta choca contra el modo en que está
+organizado el sistema científico y tecnológico, y los propósitos que
+persigue.
 
 * Tecnología, ciencias del diseño
 
@@ -441,7 +555,7 @@ físicos y biológicos fortalece las posibilidades de tener éxito al
 diseñar nuevos instrumentos, o al identificar fallas, o al controlar
 procesos.
 
-Sin embargo, hay tecnologías que producen conocimiento sobre el mundo
+También hay tecnologías que producen conocimiento sobre el mundo
 sin pretensión de realidad. Esta característica de volverse generadora
 de conocimientos difumina el límite entre ciencia y tecnología, y
 aleja la concepción de tecnología como una mera aplicación del
@@ -517,7 +631,8 @@ completamente.
 Pero en muchos casos hay un problema insalvable, puede suceder que la
 propia variable que se pretende medir no tenga un valor exacto, o que
 ese valor sea indeterminable, como en el caso de la ubicación y la
-velocidad de una partícula sub-atómica.
+velocidad de una partícula sub-atómica, y aún así deben tomarse
+decisiones.
 
 ¿De dónde proviene esta limitación a la exactitud con que se puede
 registrar la realidad? Vamos a usar un ejemplo para mostrarlo. En la
@@ -529,25 +644,31 @@ algún vehículo para obtener una medida de la distancia a partir de la
 lectura del cuentakilómetro, ¿vamos a llegar todos al mismo resultado?
 Cada uno puede hacer el experimento con leves diferencias: ¿cuál
 considerará cada uno que es el punto de partida y el punto de llegada?
-¿La plaza principal de cada ciudad? ¿El límite según la legislación?
-¿La ubicación de las casas más cercanas entre ambas ciudades? Por otro
-lado, ¿habrán tomado todos el mismo camino y se habrán desplazado
-todos por la trayectoria exacta que recorrieron los demás? Obviamente
-que si nos reunimos para comparar resultados nuestras medidas serán
-distintas, aún cuando todos contemos con un cuentakilómetros de gran
-calidad. La propia variable que queremos medir es hasta cierto punto
-indeterminada, excepto que todos acordemos un criterio, de modo que la
-variable ya no existe sólo en la realidad sino que la hemos definido
-en nuestro lenguaje, es decir que la hemos manipulado y ya no es ajena
-a nuestra existencia. Quizás uno puede pensar que esto es un caso
-particular, ¿y si el objeto que queremos medir es una mesa?
-Aparentemente no tendremos la dificultad que acabamos de señalar para
-las ciudades, pero si queremos tener muy alta precisión en nuestra
-medida y no nos alcanza con usar una lupa en cada extremo y
-amplificamos más y más los bordes, entonces ya no vamos a ver una
-superficie que se interrumpe abruptamente, sino que vamos a poder ver
-los átomos de la mesa, y sus nubes electrónicas que además se van a
-estar moviendo porque incluso en los sólidos hay agitación térmica.
+¿La plaza principal de cada ciudad? ¿El límite de las ciudades según
+la legislación?  ¿o la ubicación de las casas más cercanas entre ambas
+ciudades? Por otro lado, hemos definido la distancia de la ruta entre
+Paraná y Santa Fe, la cual es diferente a la distancia en linea recta
+entre ambas ciudades (que tendría también una definición
+difusa). Entonces, para el caso de la ruta terrestre, ¿habrán tomado
+todos el mismo camino y se habrán desplazado todos por la trayectoria
+exacta que recorrieron los demás? Obviamente que si nos reunimos para
+comparar resultados nuestras medidas serán distintas, aún cuando todos
+contemos con un cuentakilómetros de gran calidad. La propia variable
+que queremos medir es hasta cierto punto indeterminada, excepto que
+todos acordemos un criterio, de modo que la variable ya no existe sólo
+en la realidad sino que la hemos definido en nuestro lenguaje, es
+decir que la hemos manipulado o interpretado y ya no es ajena a
+nuestra existencia.
+
+Quizás uno puede pensar que ese es un caso particular, ¿y si el
+objeto que queremos medir es una mesa?  Aparentemente no tendremos la
+dificultad que acabamos de señalar para las ciudades, pero si queremos
+tener muy alta precisión en nuestra medida y no nos alcanza con usar
+una lupa en cada extremo y amplificamos más y más los bordes, entonces
+ya no vamos a ver una superficie que se interrumpe abruptamente, sino
+que vamos a poder ver los átomos de la mesa, y sus nubes electrónicas
+que además se van a estar moviendo porque incluso en los sólidos hay
+agitación térmica.
 
 Tenemos que preguntarnos si efectivamente podremos desprendernos de
 estas incertidumbres o si podemos convivir con ellas. La distancia de
@@ -568,61 +689,68 @@ conflictivos, y perdemos la noción de que la ciencia no puede
 responder cualquier pregunta. Pongamos por caso el tema de la vida
 humana: ¿cuando comienza y cuando termina? ¿En qué momento se inicia
 la existencia de un ser humano y en qué momento finaliza? Estas
-preguntas también requieren criterios compartidos para poder ser
-respondidas.
+preguntas también requieren criterios (compartidos y con algún grado
+de arbitrariedad) para poder ser respondidas.
 
 Lo interesante igual es advertir entonces que quizás la realidad puede
-ser medida, comprendida, manipulada, hasta cierto punto. Como si se
-tratase de una cosa que aún cuando afinamos nuestros sentidos se
-presenta con bordes borrosos. Esto no quiere decir que de lo mismo
-cualquier número para representar la realidad. Las medidas que los
-ingenieros deberían usar (aunque muchas veces se pase por alto) se
-escribe con notación de intervalos: la medida se expresa como un punto
-medio con una incertidumbre hacia ambos lados: la mesa mide 1,20 mas
-menos 1 cm. Estamos seguros de que la mesa mide entre 1,19 y
-1,21. Ahora pasó algo interesante, pasamos a tener total certeza de
-que la medida es algún valor dentro de ese rango.
-
-
+ser medida, comprendida, manipulada, pero hasta cierto punto. Quedará
+un borde siempre borroso, aún cuando afinemos nuestros instrumentos de
+medición y nuestras teorías. Nunca la certeza podrá ser total.
 
 ** Modelos
+
+Otro forma de plantear los límites en nuestra comprensión del mundo a
+través de la ciencia surge si analizamos lo que significan los
+modelos.
+
+Para dar un ejemplo de modelos consideremos un conjunto de ecuaciones
+que pueden usarse para simular la evolucion de la distribución de
+calor en un sólido. Este modelo matemático podrá predecir la
+temperatura en cualquier parte del cuerpo siempre que se conozcan
+ciertas características del medio (su densidad y coeficiente de
+transmisión del calor), las condiciones iniciales (cuál era la
+temperatura en cada punto en un tiempo inicial arbitrario) y las
+condiciones de contorno (cuál es la temperatura del medio en el cual
+se encuentra el sólido que modelamos). Se puede predecir así la
+evolución de la temperatura en cada punto y en cada momento aún sin
+conocer exahustivamente los mecanismos físicos de la transferencia de
+calor.
 
 Se suelen utilizar modelos que representan la realidad, es decir que
 nos indican el comportamiento de las variables que nos interesan, aún
 cuando no haya una explicación convincente de la realidad que se
-representa.
+representa. Por otra parte sabemos que modelos distintos pueden dar
+las mismas respuestas frente a las mismas entradas. Nuestro
+conocimiento de la realidad a veces es bastante opaco y aún así
+suficientemente poderoso.
 
-Se puede tener un modelo de un fenómeno y aún así no
-comprender el fenómeno en sí. A pesar de esta carencia igual se
-puede obtener suficiente información para poder actuar. Es decir,
-podemos elaborar sistemas artificiales que representan el
-funcionamiento de los sistemas naturales, a pesar de que la estructura
-con la cual están construidos sea absolutamente diferente.
-
-Puede haber caos allí donde hay reglas. La evolución de un sistema
-depende de las condiciones iniciales y de las perturbaciones que
-recibe (además de la estructura y función de sus partes).
-
-Podemos construir un sistema artificial que muestre cómo es la
-evolución de la temperatura de un cuerpo, a pesar de que lo hagamos
-con ecuaciones a partir de las cuales no podemos explicar cómo es que
-se realiza físicamente la transferencia de calor. Esta es la función
-de los modelos y de las simulaciones.
+Se puede tener un modelo de un fenómeno sin comprender el fenómeno en
+sí. A pesar de esta carencia igual se obtiene información que será
+util para poder actuar. Podemos elaborar sistemas artificiales que
+representan el funcionamiento de los sistemas naturales, a pesar de
+que la estructura con la cual están construidos sea absolutamente
+diferente.
 
 En algunos casos, pueden sintetizarse sistemas que aprenden y que
 logran adquirir un conocimiento que no es directamente expresable en
 nuestro lenguaje. Es decir que podemos construir máquinas que pueden
-desarrollar conocimiento sobre la realidad, pero que no nos pueden
-transmitir ese conocimiento. Es como la materialización del comentario
-de los profesores mediocres, muy habituales en las aulas de
-ingeniería, que no importa saber sino que importa tener el teléfono
-del que sabe. En este caso, podemos construir "máquinas que saben" y
-usarlas aún cuando no nos pueden explicar lo que saben.
+desarrollar conocimiento sobre la realidad (como las redes
+neuronales), pero que no nos pueden transmitir ese conocimiento. Es
+como la materialización del comentario que puede escucharse en las
+aulas de ingeniería: "no importa saber sino que importa tener el
+teléfono del que sabe". En este caso, podemos construir "máquinas que
+saben" y usarlas aún cuando no nos pueden explicar lo que saben.
 
-** Conocimiento como caja negra
+** Pragmatismo
 
-Distintos sistemas pueden dar los mismos resultados frente a las
-mismas entradas, aún cuando sean estructuralmente distintos.
+A modo de conclusión, la condición de verdad que reina en el dominio
+de la ingeniería es el pragmatismo. En tanto un instrumento o un
+proceso ofrece los resultados deseados entonces resulta aceptable. En
+general los desarrollos tecnológicos están orientados a resolver
+necesidades, así que el desarrollo de todo lo que cumpla con la
+función para lo que fue pensado resulta aceptable. No hay aquí
+requerimientos de ajuste a una realidad verdadera y cognoscible, sino
+la necesidad de cumplir con ciertos fines.
 
 * Enseñanza
 
@@ -695,168 +823,6 @@ necesidades, incapaz de imaginar y motorizar cambios
 significativos. Es lo razonable tratándose de una institución del
 Estado.
 
-** Definiciones de verdad
-
-La verdad debería significar que lo que se afirma es tal como sucede
-en la realidad. pero tenemos el problema de la complejidad y de la
-multiplicidad de causas, y nuestra innegable limitación para
-comprender. entonces tenemos que buscar sustitutos a una definición
-que nos deja tan afuera. encontramos entonces esta cuestión de las
-aproximaciones sucesivas, pero tiene el problema que hemos
-descubierto, cada tanto nos damos cuenta de que la aproximación no
-nos aproxima, como cuando la física clásica se vuelve relativista. el
-cambio de paradigma es tan grande... otra definición más interesante
-es la verdad como aquello que maximiza la coherencia de un conjunto
-de ideas (un paradigma).
-
-
-* Pragmatismo - ingeniería
-
-lo que puedo plantear es que el pragmatismo es la medida de la
-verdad, pero que éste (el pragm) tiene sus límites, nos va a impedir
-conocer ciertas cosas.
-
-La condición de verdad que reina en el dominio de la ingeniería es el
-pragmatismo. En tanto un instrumento o un proceso ofrece los
-resultados deseados entonces resulta aceptable. En general los
-desarrollos tecnológicos están orientados a resolver necesidades
-humanas, así que el desarrollo de todo lo que cumpla con la función
-para lo que fue pensado resulta aceptable. No hay aquí requerimientos
-de ajuste a una realidad verdadera y cognoscible, sino la necesidad de
-cumplir con ciertos fines.
-
-* Necesidad de la verdad
-
-Tener una mejor comprensión del mundo, contar con mayores
-conocimientos de física, química, biología y demás ciencias puras,
-permite teorías que puedan describir mejor la dinámica de un proceso,
-predecir mejor el comportamiento.
-
-la verdad tiene capas, como una cebolla. las capas externas de la
-teoría atómica permiten explicar el funcionamiento de las bombas de
-cobalto, aún cuando se utilicen modelos completamente superados y
-notoriamente falsos. la analogía tiene el problema de que uno puede
-tender a considerar que a capas más profundas hay mayor contenido de
-verdad, cuando en realidad distintas teorías en distintas capas
-pueden articular una visión del mundo mejor que una sola capa interna.
-
-* Copernicanismo
-
-Galileo fue el impulsor del modelo Copernicano en contra del sistema
-geocéntrico aceptado hasta ese momento, propuesto por Ptolomeo y
-Aristóteles, y sostenido por la Iglesia. En síntesis, el modelo de
-Ptolomeo y Aristóteles de que la Tierra se encuentra fija, con los
-astros (incluido el sol) girando en órbitas perfectamente circulares
-alrededor de ella, fue el modelo sostenido mayoritariamente en
-Occidente entre el siglo IV ac y el siglo XVI.
-
-* Sobre los científicos
-
-Todas estas cuestiones suelen estar ausentes de la conciencia que
-tienen los científicos de sus prácticas, así que cuando opinan de los
-métodos de la ciencia, de la fortaleza de sus argumentos, suelen
-expresar una visión bastante simplificada de la actividad científica,
-aunque sí son capaces de advertir, porque lo experimentan
-permanentemente, los mecanismos políticos y económicos que atraviesan
-la actividad que llevan adelante.
-
-En general los científicos de la actualidad carecen de formación en
-filosofía y en historia de la ciencia, puesto que toda la energía se
-proyecta sobre la especialización en la disciplina desde la cual
-deberán pelear por becas y subsidios. No creo que actualmente se
-valore significativamente el disponer de herramientas ajenas a la
-especialidad, ya que no se advierte que la epistemología, la
-filosofía, la historia puedan aportar algo a la producción
-científica. Habría que contrastar esto con la realidad de los físicos
-de la primera mitad del siglo XX.
-
-Las preocupaciones científicas de los investigadores
-son de otra índole (en general están preocupados por sus resultados
-experimentales y en cómo conseguir fondos para continuar).
-
-La mayoría de los ingenieros y científicos "cree" en la inducción.
-
-Los científicos (y los ingenieros) no saben nada de los problemas de
-la epistemología.
-
-Los argumentos como soldados. Se niega todo lo que no esté de acuerdo
-con la linea principal.
-
-Les preocupa el problema de la objetividad.
-
-* Ingeniería. Desarrollo de tecnologías
-
-¿es de carácter científico? (ciencias del diseño).
-¿qué hago cuando me enfrento a un problema?
-- multicausalidad
-- complejidad
-
-verdad es aquello que sirve y que puedo utilizar con cierto grado de
-confianza en un razonamiento.
-
-- simulaciones
-- la existencia de conocimiento no verbalizable (el perceptrón)
-
-el imaginario sobre el quehacer del ingeniero. ¿Es realmente
-matemática lo que se usa?
-
-Buena ciencia-ingeniería vs Mala ciencia-ingeniería
-
-* Holismo vs especialización
-
-La comprensión parcializada de la realidad por parte de los
-científicos. La búsqueda de un lenguaje común derivó en lo que hoy es
-la microespecialización. ¿Pueden entenderse realmente dos científicos
-de la misma disciplina que estudian fenómenos diversos? Cómo esta
-especialización atenta contra la comprensión holística de la realidad.
-
-el recorte de las disciplinas es artificial, eso se nota en la
-formación de los científicos de areas que incluyen campos diversos,
-como la biofísica. En estos campos es que se vuelve notoria la
-necesidad de una visión más holística, ya que los fenómenos no pueden
-comprenderse utilizando los conceptos de una sola disciplina.
-
-* Desconfiar de las observaciones
-
-Cuando Franco hablaba sobre el modo "respetable" de producir
-discursos (actos de habla de un cierto tipo, como en la producción
-periodística de Rodolfo Walsh) remarcaba la necesidad de sostener ese
-discurso en datos "objetivos de la realidad": documentos,
-testimonios, estadísticas, etc. A primera vista podría parecer
-parecer obvio que basta con esto. Pero podemos plantear algunas
-preguntas: son todos los testimonios honestos, cómo se valoran los
-datos que son contradictorios (porque la realidad no siempre se
-expresa de manera coherente). Por ejemplo: los economistas, que usan y
-analizan variables matemáticas y utilizan modelos computacionales,
-pueden sacar conclusiones opuestas de sus estudios. Hay evidentemente
-datos que es preciso desechar, como ciertas afirmaciones
-gubernamentales sobre tal o cual cosa, o ciertas operaciones
-periodísticas que presentan un velo demasiado endeble respecto de lo
-que pretenden (no la verdad, sino otra cosa). No parece saludable
-aceptar todo esto basado en la complejidad de los sistemas, porque hay
-mentiras que se revelan ante el análisis. Pero hay que tener cuidado
-de afirmar que siempre la realidad es cognoscible, registrable,
-medible. Hay muchas interpretaciones que son necesariamente erroneas a
-la luz de una inspección metódica, pero hay otras que son más
-difíciles de desechar, porque aparecen ahí indicios contradictorios,
-información que no es concluyente (como en el ejemplo de los
-experimentos para mostrar que la tierra gira tirando una piedra desde
-una torre).
-
-Cita de Einstein, Fey. Pg 41 (nota al pie) "Es realmente extraño que
-los hombres sean, por lo general, insensibles a los más fuertes
-argumentos mientras que siempre están inclinados a sobrevalorar la
-exactitud de las mediciones." (podría buscar cosas sobre la oposición
-entre físicos teóricos y físicos experimentales)
-
-* Beneficios del avance tecnológico
-
-Respecto de los beneficios de la ciencia, el hecho de tener
-celulares, medicamentos, etc.
-
-cómo se distribuye el dinero en ciencias? qué campos reciben más, qué
-lineas de investigación se apoyan más?
-
 * La insuficiencia de la verdad para la acción
 
 La posibilidad de discernir la realidad importa para permitirnos tomar
@@ -873,20 +839,20 @@ espejismo que del lado de la ciencia no hay más que razón. Planteo
 algunos ejemplos locales:
 
 - hace algunos años se discutió a nivel nacional y en particular en la
-UNER la llegada de fondos provenientes por ley, de la Minera La
-Alumbrera, una megamina a cielo abierto ubicada en Catamarca, de la
-cual se extrae cobre, oro y molibdeno. A pesar del rechazo social
-sustentado en diversos cuestionamientos respecto de la contaminación
-producida y sus consecuencias sobre la salud de las personas y el
-medio ambiente, si uno mira la documentación de la megaminera
-encuentra que cumple con estándares internacionales en gestión del
-medio ambiente y en seguridad alimentaria (ISO 22000, ISO 14001,
-etc). Además recuerdo que contaba con el apoyo de instituciones
-vinculadas al quehacer de ingenieros y científicos, como una
-asociación de geólogos de tucuman y distintas universidades, que al
-día de hoy realizan visitas con alumnos de las carreras de Geología
-Minera (UBA), Higiene y Seguridad (UNTucumán), Recursos Naturales y Medio
-Ambiente (UNSalta), etc.
+  UNER la llegada de fondos provenientes por ley, de la Minera La
+  Alumbrera, una megamina a cielo abierto ubicada en Catamarca, de la
+  cual se extrae cobre, oro y molibdeno. A pesar del rechazo social
+  sustentado en diversos cuestionamientos respecto de la contaminación
+  producida y sus consecuencias sobre la salud de las personas y el
+  medio ambiente, si uno mira la documentación de la megaminera
+  encuentra que cumple con estándares internacionales en gestión del
+  medio ambiente y en seguridad alimentaria (ISO 22000, ISO 14001,
+  etc). Además recuerdo que contaba con el apoyo de instituciones
+  vinculadas al quehacer de ingenieros y científicos, como una
+  asociación de geólogos de tucuman y distintas universidades, que al
+  día de hoy realizan visitas con alumnos de las carreras de Geología
+  Minera (UBA), Higiene y Seguridad (UNTucumán), Recursos Naturales y
+  Medio Ambiente (UNSalta), etc.
 
 - en Entre Ríos tenemos los temas ambientales de las pasteras sobre el
   Río Uruguay, la instalación de termas, el fracking, la producción de
@@ -924,7 +890,7 @@ Ambiente (UNSalta), etc.
   traslucen motivaciones e intereses personales, corporativos,
   intereses sociales, económicos, etc.
 
-La energía nuclear: la ciencia no puede decir si la energía nuclear es
+- La energía nuclear: la ciencia no puede decir si la energía nuclear es
   segura o no es segura. Sí nos puede indicar y describir algunos de
   sus riesgos y ventajas. Nos puede mostrar alternativas o la falta de
   ellas. Pero no es la ciencia la que tiene que aprobar o no
@@ -936,64 +902,24 @@ La energía nuclear: la ciencia no puede decir si la energía nuclear es
   inocuidad de los procesos productivos de Monsanto, Barrick Gold,
   Botnia y Chevrón.
 
-* Lenguaje
-
-Es necesaria una riqueza del lenguaje para poder comprender el mundo.
-
-Después está el problema de usar un lenguaje suficientemente bueno
-para describir un proceso. Se puede caer en el error de evaluar el
-sistema educativo basando el juicio en ciertos valores estadísticos,
-cuando los mismos no representan la realidad de lo que pasa dentro de
-un aula.
-
-* Ciencia vs No-Ciencia. O ciencia en el capitalismo
-
-
-* Feyerabend
-
-Feyerabend plantea que los niños no aprenden sólo por la
-argumentación durante la enseñanza, sino a "un proceso de crecimiento
-que se desarrolla con la fuerza de una ley natural. Y donde los
-argumentos parecen tener efecto, éste se debe más a menudo a su
-repetición física que a su contenido semántico. Después de admitir
-todo esto, hemos de aceptar también la posibilidad de crecimiento
-no-argumentativo en el adulto... debería esperarse que los cambios
-catastróficos del contorno físico, las guerras, el colapso de los
-sistemas de moralidad imperante, o las revoluciones políticas, habrán
-de transformar también los modelos de reacción del adulto, incluidos
-importantes modelos de argumentación. Esta transformación puede ser
-también un proceso completamente natural, y la única función de la
-argumentación racional quizás radique en aumentar la tensión mental
-que precede y **causa** la explosión de la conducta.
-
-Ahora bien, si son los eventos, no necesariamente los argumentos, la
-causa de que adoptemos nuevos criterios, incluyendo formas nuevas y más
-complejas de argumentación ¿no es cierto que los defensores del statu
-quo tendrán que aducir no sólo contra-argumentos, sino causas
-contrarias? ("la virtud sin el terror es ineficaz", dice Robespierre).
-Y si las viejas formas de argumentación resultan demasiado débiles
-para constituir una causa, ¿no deberán estos defensores o bien
-abandonar, o bien recurrir a medios más fuertes y más irracionales?
-(Es muy dificil(Pg 8-9).
 * Conclusiones
 
-Mi conclusión es que lo único científico no es el método sino la
-voluntad de saber a través de la razón.
+Algunas conclusiones generales y desordenadas:
 
-lo que es científico es la forma de conocer, la exahustividad de la
-búsqueda. no es el método, ni que se trate de algo matemático o no.
+- lo que caracteriza al conocimiente científico no es el método sino
+  la voluntad de saber a través de la razón, es la exahustividad de la
+  búsqueda.
 
+- Es dificil pensar la ciencia aislada de las instituciones en las
+  cuales se desarrolla y del contexto en el que lo hace. 
 
-Es dificil pensar la ciencia aislada de las instituciones en las
-cuales se desarrolla y del contexto en el que lo hace.
+- La racionalidad técnica no puede ser el único árbitro de las
+  acciones humanas.
 
-La racionalidad técnica no puede ser el único árbitro de las acciones
-humanas.
-
-Una diferencia con otras formas de conocimiento es que evita el
-estancamiento, trata de avanzar en un conocimiento más profundo,
-mientras que formas tradicionales de conocer parecen tender a
-estancarse y reproducir infinitamente lo mismo.
+- Una ventaja respecto de otras formas de conocimiento es que evita el
+  estancamiento, trata de avanzar en un conocimiento más profundo,
+  mientras que formas tradicionales de conocer parecen tender a
+  estancarse y reproducir infinitamente lo mismo. 
 
 El problema de la falta de compromiso de los lectores y el hecho de
 que no se desencadenen escándalos con consecuencias reales es también
@@ -1057,110 +983,30 @@ absurda, porque está lleno de mecanismos estrambóticos y dificiles de
 entender como la relatividad. ¿Por qué un mundo complejo debe
 explicarse y entenderse de manera simple?
 
-* Pendiente
+---
 
-La idea de que el conocimiento para vivir mejor ya está..
+Todas estas cuestiones suelen estar ausentes de la conciencia que
+tienen los científicos de sus prácticas, así que cuando opinan de los
+métodos de la ciencia, de la fortaleza de sus argumentos, suelen
+expresar una visión bastante simplificada de la actividad científica,
+aunque sí son capaces de advertir, porque lo experimentan
+permanentemente, los mecanismos políticos y económicos que atraviesan
+la actividad que llevan adelante.
 
-pensar sobre las dos teorías sobre el registro del ecg. cuál es
-veradadera?
+En general los científicos de la actualidad carecen de formación en
+filosofía y en historia de la ciencia, puesto que toda la energía se
+proyecta sobre la especialización en la disciplina desde la cual
+deberán pelear por becas y subsidios. No creo que actualmente se
+valore significativamente el disponer de herramientas ajenas a la
+especialidad, ya que no se advierte que la epistemología, la
+filosofía, la historia puedan aportar algo a la producción
+científica. Habría que contrastar esto con la realidad de los físicos
+de la primera mitad del siglo XX.
 
-programa de magia: "recursos atencionales" ¿realmente este concepto
-sirve para explicar algo? es como el poder somnífero o el poder
-curativo de una sustancia. / Redes. Magia y neurociencia en red.
+** Beneficios del avance tecnológico
 
-Un detalle que puede
-perderse desde el exterior del mundo de las ciencias, a todo nivel, es
-que hay mucha competencia. La producción de conocimiento, en tanto es
-una actividad humana, se encuentra cruzada por diversidad de intereses
-y dista de asemejarse al modelo ideal de objetividad e imparcialidad
-que se le adjudican con ingenuidad. De todos modos, no voy a ahondar
-ahora en una sociología de las ciencias.
+Respecto de los beneficios de la ciencia, el hecho de tener
+celulares, medicamentos, etc.
 
-diferencia entre conocer y explicar.
-
-
-(No se si hablé ya de que las teorías son verdaderas siempre bajo
-contextos limitados, por ejemplo las leyes de la física clásica para
-objetos moviéndose a velocidades mucho menores a la velocidad de la
-luz).
-
-** Feyerabend sobre la sustitución de teorías
-
-Sobre la sustitución de teorías: El progreso se consigue a menudo por
-medio de una crítica desde el pasado... Después de Aristóteles y
-Ptolomeo, la idea de que la Tierra se mueve -esa extraña, antigua, y
-"completamente ridícula" concepción pitagórica- fue arrojada al
-montón de escombros de la historia, para ser revivida sólo por
-Copérnico y para convertirse en sus manosen un arma con la que vencer
-a los vencedores de dicha concepción. (Pg 33) En esto quizás puedo
-plantear una analogía entre el "viejo" Lisp y los modernos lenguajes
-de computación (o por ejemplo las modas de la programación orientada
-a objetos y la programación funcional). Sigue Feyerabend: "Semejantes
-desarrollos no son sorprendentes. Una idea no se examina nunca en
-todas sus ramificaciones y ningún punto de vista recibe jamás todas
-las oportunidades que se merece. Las teorías se abandonan y
-sustituyen por otras explicaciones más de moda, mucho antes de tener
-la oportunidad para mostrar sus virtudes.
-
-** Problemas de la simplificaciones. Cuerpos = máquinas.
-
-La gente tiende a creer que los seres humanos somos máquinas que
-funcionamos en un solo sentido. Creen que lo que pensamos, sentimos,
-vemos, es el resultado de la expresión de la información genética y el
-sinnúmero de fenómenos químicos que ocurren en nuestras células. No
-faltan los papers que hablan del descubrimiento de la hormona que
-genera la esperanza, el gen que causa la infidelidad, o la molécula
-que causa la depresión. Pero este modelo no toma en cuenta que el
-cuerpo puede ser un sistema bidireccional: nuestran sensaciones pueden
-de algún modo actuar sobre nuestra química. Quizás esto tiene que ver
-con el modelo de causa-efecto y con la reticencia a complejizar,
-porque ya sabemos que existen montones de sistemas retroalimentados,
-incluso en nuestro propio cuerpo.
-
-
-Me gustó la definición de que verdad es la predisposición a la
-búsqueda de quien investiga, y no es una propiedad en sí de la
-teoría.
-
-Lo científico es la predisposición a la investigación, a la búsqueda
-de verdades, el inconformismo con el nivel de conocimiento actual, la
-apertura a la discusión, ...
-** El fenómeno de excitación-contracción
-
-Hay en este problema una gran complejidad. Hay desplazamiento de
-pequeños átomos cargados, llamados iones, a través de la membrana
-celular y también a través de las membranas de los órganos internos
-dentro de la célula, hay proteinas llamadas "canales" que dejan pasar
-unos iones en particular y no otros (canales de sodio, canales de
-calcio, etc), pero que afectan su funcionamiento frente a cambiantes
-concentraciones de una tercer sustancia (moléculas que bloquean o
-favorecen este funcionamiento), también hay otras proteinas que
-funcionan como bombas (de sodio-potasio), a lo que se suma que la
-estructura donde están fijadas estas proteinas tiene una consistencia
-fluida, donde hay un movimiento constante de sus componentes, que a su
-vez son muy dependientes de las formas para cumplir su función (un
-canal es selectivo por las dimensiones que tiene su estructura, que
-permite alojar un ion de sodio pero no uno de calcio). Además la
-expresión de la información genética cumple un importante papel, y es
-algo sobre lo cual los científicos pueden operar, puesto que
-actualmente se diseñan animales de laboratorio con ciertas mutaciones
-(por ejemplo la ausencia de una bomba).
-
-Además, influyen sobre el sistema en estudio, el medio ambiente donde
-se realizan las medidas, los resultados cambian cuando el tejido está
-a distinta temperatura, en presencia de líquidos con distintas
-concentraciones, etc.
-
-También hay variaciones importantes en el funcionamiento del sistema
-cuando se estudian las células por separado, ya que los resultados de
-medir las mismas variables son distintos a cuando las mediciones se
-realizan sin disgregar las células, es decir mientras estas aún están
-formando parte de un órgano funcional.
-
-La complejidad del sistema se profundiza con el agregado de
-tecnologías para obtener información de los procesos que se tratan de
-dilucidar. Para indagar se utilizan instrumentos y técnicas que pueden
-alterar el funcionamiento de aquello que se estudia. Se utilizan
-elementos para medir corrientes, temperaturas, presiones,
-concentraciones, etc. Se sintetizan soluciones, se inyectan fármacos,
-se realizan preparados para mantener con vida órganos aislados...
+cómo se distribuye el dinero en ciencias? qué campos reciben más, qué
+lineas de investigación se apoyan más?
