@@ -240,3 +240,173 @@ los hombres sean, por lo general, insensibles a los más fuertes
 argumentos mientras que siempre están inclinados a sobrevalorar la
 exactitud de las mediciones." (podría buscar cosas sobre la oposición
 entre físicos teóricos y físicos experimentales)
+** Sobre simulaciones y modelos
+
+Puedo dar un ejemplo con la intención de ilustrarlo:
+
+Se puede elaborar un conjunto de ecuaciones diferenciales que
+representan el funcionamiento del sistema cardiovascular y gracias a
+ellas saber cómo será la distribución de la presión en el corazón y en
+las arterias y venas, o cómo variará el volumen de las cavidades del
+corazón a lo largo del tiempo, pero esto sin hacer ninguna referencia
+a las células, a las proteinas de la sangre, a la información
+genética, etc. Es decir, desconociendo olímpicamente a los fenómenos
+físicos y biológicos que subyacen y que son responsables de este
+funcionamiento.
+
+Ahora bien, debe haber alguna correspondencia con la realidad en las
+predicciones que se desprenden de los modelos y simulaciones, porque
+de lo contrario serían descartados. Las predicciones se contrastan con
+mediciones realizadas sobre el sistema real, de modo tal que sólo
+resulta aceptable el modelo en tanto ofrezca resultados semejantes
+(aunque no iguales) a lecturas obtenidas a partir del sistema
+real. Recién cuando se comprueba que el sistema artificial es
+capaz de representar al sistema real de algún modo (con ecuaciones
+deterministas, con funciones de probabilidad, o con sistemas análogos
+-por ejemplo los modelos eléctricos o neumáticos del sistema
+cardiovascular), recién a partir de allí se vuelve admisible de
+utilizar como herramienta.
+
+Sin embargo hay que advertir que el modelo puede haber sido probado
+exitosamente bajo distintas condiciones: considerando arterias con
+paredes más o menos elásticas, con volúmenes ventriculares mayores o
+menores, con más o menos glóbulos rojos en sangre, etc. De este modo
+tenemos un cierto grado de confianza en este modelo, pero esto no
+significa que las ecuaciones puedan predecir la evolución del sistema
+siempre y para cualquier condición. De hecho, la salida de este
+modelo dependerá de ciertas condiciones iniciales, de la aplicación de
+estímulos y perturbaciones, etc. El sistema real, dada su
+complejidad, nunca puede ser descripto completamente.
+** Modelos
+
+Otro forma de plantear los límites en nuestra comprensión del mundo a
+través de la ciencia surge si analizamos lo que significan los
+modelos.
+
+Para dar un ejemplo de modelos consideremos un conjunto de ecuaciones
+que pueden usarse para simular la evolucion de la distribución de
+calor en un sólido. Este modelo matemático podrá predecir la
+temperatura en cualquier parte del cuerpo siempre que se conozcan
+ciertas características del medio (su densidad y coeficiente de
+transmisión del calor), las condiciones iniciales (cuál era la
+temperatura en cada punto en un tiempo inicial arbitrario) y las
+condiciones de contorno (cuál es la temperatura del medio en el cual
+se encuentra el sólido que modelamos). Se puede predecir así la
+evolución de la temperatura en cada punto y en cada momento aún sin
+conocer exahustivamente los mecanismos físicos de la transferencia de
+calor.
+
+Se suelen utilizar modelos que representan la realidad, es decir que
+nos indican el comportamiento de las variables que nos interesan, aún
+cuando no haya una explicación convincente de la realidad que se
+representa. Por otra parte sabemos que modelos distintos pueden dar
+las mismas respuestas frente a las mismas entradas. Nuestro
+conocimiento de la realidad a veces es bastante opaco y aún así
+suficientemente poderoso.
+
+Se puede tener un modelo de un fenómeno sin comprender el fenómeno en
+sí. A pesar de esta carencia igual se obtiene información que será
+util para poder actuar. Podemos elaborar sistemas artificiales que
+representan el funcionamiento de los sistemas naturales, a pesar de
+que la estructura con la cual están construidos sea absolutamente
+diferente.
+
+En algunos casos, pueden sintetizarse sistemas que aprenden y que
+logran adquirir un conocimiento que no es directamente expresable en
+nuestro lenguaje. Es decir que podemos construir máquinas que pueden
+desarrollar conocimiento sobre la realidad (como las redes
+neuronales), pero que no nos pueden transmitir ese conocimiento. Es
+como la materialización del comentario que puede escucharse en las
+aulas de ingeniería: "no importa saber sino que importa tener el
+teléfono del que sabe". En este caso, podemos construir "máquinas que
+saben" y usarlas aún cuando no nos pueden explicar lo que saben.
+** Más cosas
+
+El problema de la falta de compromiso de los lectores y el hecho de
+que no se desencadenen escándalos con consecuencias reales es también
+un problema para la ciencia, si pensamos que la ciencia no debe ser
+dominio exclusivo de los científicos sino de un público (ilustrado)
+general. ¿Qué nos toca hacer frente a esto? Yo creo que hay que
+criticar sin piedad al sistema científico, sin endiosarlo por sus
+logros, y mostrar que el público general puede participar de sus
+procesos, que no incluyen sólo la producción del conocimiento sino su
+difusión, la participación en la selección de problemas relevantes, la
+auditoría de las instituciones, etc. Por eso es importante una
+educación que permita a las personas participar adecuadamente en estas
+tareas.
+
+Pensemos en el sistema científico y en cómo su producción no
+solamente sirve para brindarnos celulares y vehículos a precio
+accesible, sino una batería de muletas para el modo de producción
+capitalista.
+** La autocrítica en ciencias. El contacto con otras tradiciones.
+
+Algo que me parece imprescindible para el espíritu científico es
+advertir las debilidades de las propuestas que uno hace, de las
+teorías que uno tiene. Recibir la crítica y evaluarla y no empezar
+por ridiculizarla, sino por tratar de entender desde la óptica del
+otro. Muchas veces esto puede conducir igual a reafirmar lo que uno
+piensa, pero quizás no siempre. Se puede aprender de puntos de vista
+no expertos o no especializados (por ejemplo en quienes pueden
+elaborar sistemas de comprensión basados en el uso de
+analogías). Todas las tradiciones pueden aprender de otras, unas
+disciplinas pueden aprender de otras, de otras culturas y formas de
+pensamiento. La realidad es tan rica que quizás tiene aspectos que no
+son binarios, en los que podrían ser aplicables lógicas diversas. O
+hay que advertir que el binarismo es posible siempre que permita
+cierta flexibilidad (¿qué onda con los sexos, no es acaso absurdo
+plantear la pregunta sobre si una persona es mujer o varón?).
+
+De Feyerabend: pg4. En respuesta a si es deseable apoyar la ciencia
+como único camino para comprender el mundo, responde que no y que hay
+dos razones para ello: "La primera consiste en que el mundo que
+deseamos explorar es una entidad en gran medida desconocida. Debemos
+por tanto mantener abiertas nuestras opciones y no restringirlas de
+antemano. ... ¿Quién garantiza que [las prescripciones
+epistemológicas] constituyan el mejor camino para descubrir, no ya
+unos cuantos "hechos" aislados, sino ciertos secretos profundos de la
+naturaleza? La segunda es que una educación científica como la
+descripta antes (y como se imparte en nuestras escuelas) no puede
+reconciliarse con una actitud humanista".
+
+Los defensores de la ciencia suelen apelar a la mejora en la salud y
+el confort como elementos propagandísticos. Pero si hablamos de
+aportes, también hay que mencionar los transgénicos, las armas, los
+desastres nucleares, la contaminación ambiental y demás.
+
+En la película Unbelievers, Dawking y Krauss mencionan que les
+gustaría que durante sus vidas aparezca alguna teoría plausible sobre
+el origen del universo o sobre alguna cosa así, y que puedan decir:
+"oh, era una explicación tan simple y plausible...". Sin embargo, la
+idea de que las reglas del universo son simples y elegantes es
+absurda, porque está lleno de mecanismos estrambóticos y dificiles de
+entender como la relatividad. ¿Por qué un mundo complejo debe
+explicarse y entenderse de manera simple?
+
+---
+
+Todas estas cuestiones suelen estar ausentes de la conciencia que
+tienen los científicos de sus prácticas, así que cuando opinan de los
+métodos de la ciencia, de la fortaleza de sus argumentos, suelen
+expresar una visión bastante simplificada de la actividad científica,
+aunque sí son capaces de advertir, porque lo experimentan
+permanentemente, los mecanismos políticos y económicos que atraviesan
+la actividad que llevan adelante.
+
+En general los científicos de la actualidad carecen de formación en
+filosofía y en historia de la ciencia, puesto que toda la energía se
+proyecta sobre la especialización en la disciplina desde la cual
+deberán pelear por becas y subsidios. No creo que actualmente se
+valore significativamente el disponer de herramientas ajenas a la
+especialidad, ya que no se advierte que la epistemología, la
+filosofía, la historia puedan aportar algo a la producción
+científica. Habría que contrastar esto con la realidad de los físicos
+de la primera mitad del siglo XX.
+
+** Beneficios del avance tecnológico
+
+Respecto de los beneficios de la ciencia, el hecho de tener
+celulares, medicamentos, etc.
+
+cómo se distribuye el dinero en ciencias? qué campos reciben más, qué
+lineas de investigación se apoyan más?

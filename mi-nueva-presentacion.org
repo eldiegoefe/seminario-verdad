@@ -544,76 +544,128 @@ persigue.
 
 * Tecnología, ciencias del diseño
 
-La función más interesante de los ingenieros es actuar sobre la
-realidad para dar respuesta a alguna necesidad humana (o del
-mercado). Los bioingenieros con tareas más específicamente técnicas,
-como los que se ocupan del mantenimiento de hospitales y clínicas, o
-del diseño de instrumentos utilizados en el cuidado de la salud,
-dependen de los conocimientos y teorías de las distintas
-disciplinas. Es obvio que una mayor comprensión de los fenómenos
-físicos y biológicos fortalece las posibilidades de tener éxito al
-diseñar nuevos instrumentos, o al identificar fallas, o al controlar
-procesos.
+** Introducción
+Los bioingenieros que se ocupan del mantenimiento de hospitales y
+clínicas, o del diseño de instrumentos para el cuidado de la salud, no
+sólo utilizan los vastos conocimientos de las ciencias sino que
+también generan saber. Esta característica difumina el límite entre
+ciencia y tecnología, y aleja la concepción de tecnología como una
+mera aplicación del conocimiento científico.
 
-También hay tecnologías que producen conocimiento sobre el mundo
-sin pretensión de realidad. Esta característica de volverse generadora
-de conocimientos difumina el límite entre ciencia y tecnología, y
-aleja la concepción de tecnología como una mera aplicación del
-conocimiento científico. Mediante la tecnología se pueden construir
-representaciones parciales de la realidad, es decir sistemas
-artificiales que modelan un aspecto del mundo real, que nos brindan
+** Simulaciones y modelos
+Una forma particular de construcción de conocimientos es la
+utilización de simulaciones y modelos. Con estas herramientas se
+sintetizan sistemas cuya estructura no tiene relación con nuestra
+realidad, excepto por el hecho de que imitan lo que sucede en nuestro
+mundo, de un modo tal que viendo el sistema artificial aprendemos
+sobre el mundo real. No es algo novedoso, puesto que las matemáticas
+generan modelos desde hace mucho tiempo. Lo llamativo en la actualidad
+es la potencia que alcanza este modo de conocer, debido al incremento
+de la capacidad de cálculo que brindan las computadoras.
+
+** Modelos como /cajas negras/
+
+Los modelos son representaciones parciales de la realidad, sistemas
+que enfocan un aspecto particular del mundo real y que nos brindan
 información aún cuando la estructura y los fenómenos internos del
-sistema real nos sigan siendo desconocidos. En otras palabras podemos
-decir que a través de la tecnología se construye un conocimiento
-instrumental del mundo.
+sistema real nos siguen siendo desconocidos. Son una especie de cajas
+negras cuyo interior desconocemos, pero que frente a estímulos y
+perturbaciones responden como si fueran un trozo de nuestro mundo. Hay
+que tener en cuenta que al ser esencialmente distintos, las
+similitudes de comportamiento tienen un límite.
 
-Puedo dar un ejemplo con la intención de ilustrarlo:
+Ya dijimos que en el siglo XVII se pudo explicar la función del
+corazón y el circuito de la sangre gracias al desarrollo de conceptos
+como el de /bomba hidráulica/. Actualmente podemos hacer mucho más,
+podemos plantear modelos matemáticos en la forma de sistemas de
+ecuaciones diferenciales y obtener resultados numéricos que predicen
+la evolución temporal de la presión y el volumen de sangre en cada
+porción del sistema. Algo semejante se puede hacer pero con
+componentes físicos y tangibles: se puede construir un modelo del
+sistema circulatorio con baterías, resistencias, capacitores e
+inductancias y a través de la medida de voltajes y corrientes
+eléctricas sobre este sistema artificial, se puede tener información
+sobre la presión o el volumen de sangre que habría en cada sección del
+sistema. Esto es util porque permite expedimentar sobre el sistema
+artificial sin poner en riesgo la vida de pacientes.
 
-Se puede elaborar un conjunto de ecuaciones diferenciales que
-representan el funcionamiento del sistema cardiovascular y gracias a
-ellas saber cómo será la distribución de la presión en el corazón y en
-las arterias y venas, o cómo variará el volumen de las cavidades del
-corazón a lo largo del tiempo, pero esto sin hacer ninguna referencia
-a las células, a las proteinas de la sangre, a la información
-genética, etc. Es decir, desconociendo olímpicamente a los fenómenos
-físicos y biológicos que subyacen y que son responsables de este
-funcionamiento.
+Se pueden construir modelos eléctricos, hidráulicos y neumáticos de
+sistemas tan diversos como la economía de una empresa o la evolución
+de distintas poblaciones en una cierta región.
 
-Ahora bien, debe haber alguna correspondencia con la realidad en las
-predicciones que se desprenden de los modelos y simulaciones, porque
-de lo contrario serían descartados. Las predicciones se contrastan con
-mediciones realizadas sobre el sistema real, de modo tal que sólo
-resulta aceptable el modelo en tanto ofrezca resultados semejantes
-(aunque no iguales) a lecturas obtenidas a partir del sistema
-real. Recién cuando se comprueba que el sistema artificial es
-capaz de representar al sistema real de algún modo (con ecuaciones
-deterministas, con funciones de probabilidad, o con sistemas análogos
--por ejemplo los modelos eléctricos o neumáticos del sistema
-cardiovascular), recién a partir de allí se vuelve admisible de
-utilizar como herramienta.
+La potencia de esta forma de conocer es evidente. Sin embargo lo que
+me interesa remarcar es el caracter limitado y parcial de este saber,
+no para impugnarlo sino para poder vislumbrar que siguen existiendo
+incógnitas en esa realidad que se está analizando.
 
-Sin embargo hay que advertir que el modelo puede haber sido probado
-exitosamente bajo distintas condiciones: considerando arterias con
-paredes más o menos elásticas, con volúmenes ventriculares mayores o
-menores, con más o menos glóbulos rojos en sangre, etc. De este modo
-tenemos un cierto grado de confianza en este modelo, pero esto no
-significa que las ecuaciones puedan predecir la evolución del sistema
-siempre y para cualquier condición. De hecho, la salida de este
-modelo dependerá de ciertas condiciones iniciales, de la aplicación de
-estímulos y perturbaciones, etc. El sistema real, dada su
-complejidad, nunca puede ser descripto completamente.
+Aún cuando hay regularidad en la naturaleza, me parece que es
+importante no pasar por alto la presencia de la singularidad, que
+desde mi punto de vista resulta de la combinación de las leyes
+naturales con el efecto de ínfimas diferencias en las condiciones de
+estructura y funcionamiento de los objetos aparentemente
+idénticos. Para simplificar esta idea podemos pensar en lo que
+sucedería si contamos con dos personas idénticas, de modo tal que uno
+funcione como modelo del otro. Si medimos la misma variable
+fisiológica estando ambas en la misma situación, ¿obtendríamos
+resultados exactamente iguales frente a la administración de un mismo
+estímulo? La respuesta de un modelo nunca es exactamente idéntica a la
+del sistema que representa, por lo que siempre habrá un cierto nivel
+de incertidumbre y de desconocimiento en el saber.
 
-Otro elemento que complica las predicciones es la naturaleza aleatoria
-de ciertos procesos, por ejemplo en el fenómeno de decaimiento
-radiactivo de un nucleo inestable. Podemos saber qué probabilidades
-hay de que un átomo decaiga en un momento dado, pero no tenemos
-certeza respecto del momento exacto en el que esto efectivamente habrá
-de suceder. Es decir, podemos predecir el comportamiento promedio de
-un conjunto de átomos, pero carecemos de certeza para predecir qué
-sucederá con cada uno de estos átomos a lo largo del tiempo. La
-capacidad de describir la realidad y de predecirla se desarrolla, pero
-no se puede afirmar que se explica y se comprende el fenómeno en su
-totalidad. Sin embargo, la teoría no deja de ser útil.
+** El saber enigmático. Redes neuronales.
+
+Un caso particular de instrumentos para construir conocimientos es el
+de algunas formas de inteligencia artificial, como las redes
+neuronales. En estos sistemas se tiene una representación matemática
+del funcionamiento de una neurona real, con múltiples entradas y una
+sola salida. La salida puede tener dos únicos estados: activado o
+no-activado, igual que en una neurona real. Se pueden combinar muchas
+de estas neuronas artificiales formando una estructura que toma el
+nombre de red neuronal. Esta red puede entrenarse para resolver
+ciertos problemas o cumplir con cierta función.
+
+Para que la red pueda cumplir con su propósito primero hay que
+entrenarla con un conjunto conocido de entradas para las cuales además
+conocemos las salidas deseadas. Se evalúan las salidas de la red ante
+cada entrada y si hay diferencia respecto de lo que deberían haberse
+obtenido, entonces se modifican ciertos números llamados /pesos/ que
+vinculan las entradas con las neuronas y a las neuronas entre sí. Esto
+se hace hasta que la red ofrece las salidas deseadas y ya no es
+necesario modificar más estos números.
+
+A partir de ahí la red neuronal podrá cumplir su función, aún cuando
+las entradas sean distintas a las utilizadas para su entrenamiento, es
+decir que la red puede /generalizar/. Lo que me interesa señalar es
+que el conocimiento alojado en esa red neuronal se encuentra
+codificado en los /pesos/. Podemos usar ese conocimiento, pero no
+tiene ningún sentido interpretar el significado de esos números. Es
+decir, la verdad contenida en ese formato nos resulta inaccesible para
+nuestra comprensión, aun cuando podamos utilizar ese saber con fines
+prácticos.
+
+** Aleatoriedad y caos
+
+Ya vimos que hay cierta singularidad imposible de replicar entre un
+trozo de realidad y un modelo o simulación. Otro elemento que complica
+las predicciones es la naturaleza aleatoria de ciertos procesos, y el
+caos (al menos aparente) presente en todos los sistemas complejos.
+
+Por ejemplo hay aleatoriedad en el fenómeno de decaimiento radiactivo
+de un nucleo inestable. Podemos saber qué probabilidades hay de que un
+átomo decaiga en un momento dado, pero no tenemos certeza respecto del
+momento exacto en el que esto efectivamente habrá de suceder. Podemos
+predecir el comportamiento promedio de un conjunto de átomos, pero
+carecemos de certeza para predecir qué sucederá con cada uno de estos
+átomos a lo largo del tiempo, lo cual puede indicar dos cosas: que el
+fenómeno es realmente de naturaleza aleatoria o quizás nuestro
+conocimiento es tan limitado que nos parece un comportamiento
+azaroso. Lo que me parece interesante es señalar que quizas no hay
+modo de saber esto.
+
+La capacidad de describir la realidad y de predecirla se desarrolla,
+pero no se puede afirmar que se explica y se comprenden los fenómenos
+en su totalidad. Aún así, con estas limitaciones, es notoria la
+utilidad del saber.
 
 ** Incertidumbre
 
@@ -622,17 +674,14 @@ que necesitamos registrar el mundo real antes de actuar sobre él,
 puede parecer catastrófico que no podamos determinar la realidad sin
 cometer errores.
 
-Sin embargo el problema se aborda tratando de reducir estos errores y
-cuantificando las incertidumbres. En algunos casos el avance del
-conocimiento científico y de los desarrollos tecnológicos permite
-efectivamente disminuir estos errores, aunque sin eliminarlos
-completamente.
+Los ingenieros tratan de reducir estos errores y
+de cuantificar las incertidumbres. En algunos casos esto es posible,
+pero nunca se llega a la completa eliminación de los mismos.
 
-Pero en muchos casos hay un problema insalvable, puede suceder que la
+En muchos casos hay un problema insalvable: puede suceder que la
 propia variable que se pretende medir no tenga un valor exacto, o que
 ese valor sea indeterminable, como en el caso de la ubicación y la
-velocidad de una partícula sub-atómica, y aún así deben tomarse
-decisiones.
+velocidad de una partícula sub-atómica.
 
 ¿De dónde proviene esta limitación a la exactitud con que se puede
 registrar la realidad? Vamos a usar un ejemplo para mostrarlo. En la
@@ -655,10 +704,9 @@ exacta que recorrieron los demás? Obviamente que si nos reunimos para
 comparar resultados nuestras medidas serán distintas, aún cuando todos
 contemos con un cuentakilómetros de gran calidad. La propia variable
 que queremos medir es hasta cierto punto indeterminada, excepto que
-todos acordemos un criterio, de modo que la variable ya no existe sólo
-en la realidad sino que la hemos definido en nuestro lenguaje, es
-decir que la hemos manipulado o interpretado y ya no es ajena a
-nuestra existencia.
+todos acordemos un criterio. Si hacemos esto a esa variable la hemos
+definido en nuestro lenguaje, la hemos manipulado o interpretado y ya
+no es ajena a nuestra existencia.
 
 Quizás uno puede pensar que ese es un caso particular, ¿y si el
 objeto que queremos medir es una mesa?  Aparentemente no tendremos la
@@ -677,69 +725,27 @@ combustible tener en el tanque (podríamos preguntarnos: ¿cuánta nafta
 exactamente consume nuestro vehículo por kilómetro?), o si necesitamos
 saber en cuánto tiempo podemos hacer el viaje. En el contexto de esos
 problemas, que la distancia varíe en uno, dos o cinco kilómetros no
-tiene demasiado impacto. Hay un grado de incertidumbre tolerable en el
+tiene demasiado impacto. *Hay un grado de incertidumbre tolerable en el
 conocimiento de la realidad que no afecta nuestra capacidad de actuar
-sobre ella. Si queremos saber cuántas personas pueden sentarse
+sobre ella*. Si queremos saber cuántas personas pueden sentarse
 alrededor de la mesa, no tiene sentido tratar de obtener una medida
 con la precisión de un Angstrom.
 
-De todos modos creo que este es un tema interesante porque muchas
-veces se apela a la ciencia para tratar de resolver temas
-conflictivos, y perdemos la noción de que la ciencia no puede
-responder cualquier pregunta. Pongamos por caso el tema de la vida
-humana: ¿cuando comienza y cuando termina? ¿En qué momento se inicia
-la existencia de un ser humano y en qué momento finaliza? Estas
+** ¿Qué preguntas puede responder la ciencia?
+
+Muchas veces se apela al conocimiento científico para tratar de
+resolver temas conflictivos, y perdemos la noción de que la ciencia no
+puede responder cualquier pregunta. Pongamos por caso el tema de la
+vida humana: ¿cuando comienza y cuando termina? ¿En qué momento se
+inicia la existencia de un ser humano y en qué momento finaliza? Estas
 preguntas también requieren criterios (compartidos y con algún grado
 de arbitrariedad) para poder ser respondidas.
 
 Lo interesante igual es advertir entonces que quizás la realidad puede
-ser medida, comprendida, manipulada, pero hasta cierto punto. Quedará
-un borde siempre borroso, aún cuando afinemos nuestros instrumentos de
-medición y nuestras teorías. Nunca la certeza podrá ser total.
-
-** Modelos
-
-Otro forma de plantear los límites en nuestra comprensión del mundo a
-través de la ciencia surge si analizamos lo que significan los
-modelos.
-
-Para dar un ejemplo de modelos consideremos un conjunto de ecuaciones
-que pueden usarse para simular la evolucion de la distribución de
-calor en un sólido. Este modelo matemático podrá predecir la
-temperatura en cualquier parte del cuerpo siempre que se conozcan
-ciertas características del medio (su densidad y coeficiente de
-transmisión del calor), las condiciones iniciales (cuál era la
-temperatura en cada punto en un tiempo inicial arbitrario) y las
-condiciones de contorno (cuál es la temperatura del medio en el cual
-se encuentra el sólido que modelamos). Se puede predecir así la
-evolución de la temperatura en cada punto y en cada momento aún sin
-conocer exahustivamente los mecanismos físicos de la transferencia de
-calor.
-
-Se suelen utilizar modelos que representan la realidad, es decir que
-nos indican el comportamiento de las variables que nos interesan, aún
-cuando no haya una explicación convincente de la realidad que se
-representa. Por otra parte sabemos que modelos distintos pueden dar
-las mismas respuestas frente a las mismas entradas. Nuestro
-conocimiento de la realidad a veces es bastante opaco y aún así
-suficientemente poderoso.
-
-Se puede tener un modelo de un fenómeno sin comprender el fenómeno en
-sí. A pesar de esta carencia igual se obtiene información que será
-util para poder actuar. Podemos elaborar sistemas artificiales que
-representan el funcionamiento de los sistemas naturales, a pesar de
-que la estructura con la cual están construidos sea absolutamente
-diferente.
-
-En algunos casos, pueden sintetizarse sistemas que aprenden y que
-logran adquirir un conocimiento que no es directamente expresable en
-nuestro lenguaje. Es decir que podemos construir máquinas que pueden
-desarrollar conocimiento sobre la realidad (como las redes
-neuronales), pero que no nos pueden transmitir ese conocimiento. Es
-como la materialización del comentario que puede escucharse en las
-aulas de ingeniería: "no importa saber sino que importa tener el
-teléfono del que sabe". En este caso, podemos construir "máquinas que
-saben" y usarlas aún cuando no nos pueden explicar lo que saben.
+ser medida, comprendida, manipulada, pero sólo hasta cierto
+punto. Quedará un borde siempre borroso, aún cuando afinemos nuestros
+instrumentos de medición y nuestras teorías. Nunca la certeza podrá
+ser total.
 
 ** Pragmatismo
 
@@ -846,13 +852,15 @@ algunos ejemplos locales:
   producida y sus consecuencias sobre la salud de las personas y el
   medio ambiente, si uno mira la documentación de la megaminera
   encuentra que cumple con estándares internacionales en gestión del
-  medio ambiente y en seguridad alimentaria (ISO 22000, ISO 14001,
-  etc). Además recuerdo que contaba con el apoyo de instituciones
-  vinculadas al quehacer de ingenieros y científicos, como una
-  asociación de geólogos de tucuman y distintas universidades, que al
-  día de hoy realizan visitas con alumnos de las carreras de Geología
-  Minera (UBA), Higiene y Seguridad (UNTucumán), Recursos Naturales y
-  Medio Ambiente (UNSalta), etc.
+  medio ambiente (ISO 14001), quiere decir que hay instituciones
+  prestigiosas, que con criterios supuestamente científicos, avalan el
+  funcionamiento de la megaminera. Además recuerdo que contaba con el
+  apoyo de instituciones vinculadas al quehacer de otros ingenieros y
+  científicos, como una asociación de geólogos de tucuman y distintas
+  universidades, que al día de hoy realizan visitas con alumnos de las
+  carreras de Geología Minera (UBA), Higiene y Seguridad (UNTucumán),
+  Recursos Naturales y Medio Ambiente (UNSalta), etc. La ciencia puede
+  decir muchas cosas...
 
 - en Entre Ríos tenemos los temas ambientales de las pasteras sobre el
   Río Uruguay, la instalación de termas, el fracking, la producción de
@@ -877,25 +885,25 @@ algunos ejemplos locales:
   demostrar correlación entre cancer y cultivos de soja porque no se
   puede individualizar su efecto puesto que el origen de las
   patologías puede ser otro, etc. Uno podría pensar que existe una
-  microverdad asociada con cada pregunta, o con cada subproblema, pero
-  incluso en ese caso pueden plantearse ideas y experimentos que
+  microverdad asociada con cada afirmación, o con cada subproblema,
+  pero incluso en ese caso pueden plantearse ideas y experimentos que
   arrojarán resultados contradictorios. Es decir, se puede llegar al
   extremo de hacer trampa al diseñar los experimentos, o al analizar
   los resultados. ¿Qué dirán en este caso los empiristas? ¿Cuál será
   el experimento crucial a realizar?  Por otro lado: ¿confiaríamos en
-  el juicio de uno o varios expertos?  Por supuesto no estoy
-  mencionando cómo afecta a la búsqueda de la verdad la presencia de
-  intereses no-científicos. Claramente aparecen posturas de
-  científicos e instituciones científicas a través de las cuales se
-  traslucen motivaciones e intereses personales, corporativos,
-  intereses sociales, económicos, etc.
+  el juicio de uno o varios expertos para tomar decisiones?  Por
+  supuesto no estoy mencionando cómo afecta a la búsqueda de la verdad
+  la presencia de intereses no-científicos. Claramente aparecen
+  posturas de científicos e instituciones científicas a través de las
+  cuales se traslucen motivaciones e intereses personales,
+  corporativos, intereses sociales, económicos, etc.
 
 - La energía nuclear: la ciencia no puede decir si la energía nuclear es
   segura o no es segura. Sí nos puede indicar y describir algunos de
   sus riesgos y ventajas. Nos puede mostrar alternativas o la falta de
   ellas. Pero no es la ciencia la que tiene que aprobar o no
   algo. Porque cuando decimos que la ciencia aprueba o no algo lo que
-  estamos diciendo es que las instituciones científicas lo hagan. Y
+  estamos diciendo es que las instituciones científicas lo hacen. Y
   como las instituciones científicas son una construcción humana
   atravesada por intereses políticos y económicos, podemos tener a los
   científicos del Conicet coincidiendo con Lino Barañao respecto de la
@@ -906,107 +914,19 @@ algunos ejemplos locales:
 
 Algunas conclusiones generales y desordenadas:
 
+- el saber científico es limitado. La naturaleza del universo quizás
+  no sea tan regular o tan definida como se suele pensar.
+
 - lo que caracteriza al conocimiente científico no es el método sino
   la voluntad de saber a través de la razón, es la exahustividad de la
   búsqueda.
 
 - Es dificil pensar la ciencia aislada de las instituciones en las
-  cuales se desarrolla y del contexto en el que lo hace. 
+  cuales se desarrolla y del contexto en el que lo hace.
 
 - La racionalidad técnica no puede ser el único árbitro de las
   acciones humanas.
 
 - Una ventaja respecto de otras formas de conocimiento es que evita el
-  estancamiento, trata de avanzar en un conocimiento más profundo,
-  mientras que formas tradicionales de conocer parecen tender a
-  estancarse y reproducir infinitamente lo mismo. 
-
-El problema de la falta de compromiso de los lectores y el hecho de
-que no se desencadenen escándalos con consecuencias reales es también
-un problema para la ciencia, si pensamos que la ciencia no debe ser
-dominio exclusivo de los científicos sino de un público (ilustrado)
-general. ¿Qué nos toca hacer frente a esto? Yo creo que hay que
-criticar sin piedad al sistema científico, sin endiosarlo por sus
-logros, y mostrar que el público general puede participar de sus
-procesos, que no incluyen sólo la producción del conocimiento sino su
-difusión, la participación en la selección de problemas relevantes, la
-auditoría de las instituciones, etc. Por eso es importante una
-educación que permita a las personas participar adecuadamente en estas
-tareas.
-
-Pensemos en el sistema científico y en cómo su producción no
-solamente sirve para brindarnos celulares y vehículos a precio
-accesible, sino una batería de muletas para el modo de producción
-capitalista.
-
-** La autocrítica en ciencias. El contacto con otras tradiciones.
-
-Algo que me parece imprescindible para el espíritu científico es
-advertir las debilidades de las propuestas que uno hace, de las
-teorías que uno tiene. Recibir la crítica y evaluarla y no empezar
-por ridiculizarla, sino por tratar de entender desde la óptica del
-otro. Muchas veces esto puede conducir igual a reafirmar lo que uno
-piensa, pero quizás no siempre. Se puede aprender de puntos de vista
-no expertos o no especializados (por ejemplo en quienes pueden
-elaborar sistemas de comprensión basados en el uso de
-analogías). Todas las tradiciones pueden aprender de otras, unas
-disciplinas pueden aprender de otras, de otras culturas y formas de
-pensamiento. La realidad es tan rica que quizás tiene aspectos que no
-son binarios, en los que podrían ser aplicables lógicas diversas. O
-hay que advertir que el binarismo es posible siempre que permita
-cierta flexibilidad (¿qué onda con los sexos, no es acaso absurdo
-plantear la pregunta sobre si una persona es mujer o varón?).
-
-De Feyerabend: pg4. En respuesta a si es deseable apoyar la ciencia
-como único camino para comprender el mundo, responde que no y que hay
-dos razones para ello: "La primera consiste en que el mundo que
-deseamos explorar es una entidad en gran medida desconocida. Debemos
-por tanto mantener abiertas nuestras opciones y no restringirlas de
-antemano. ... ¿Quién garantiza que [las prescripciones
-epistemológicas] constituyan el mejor camino para descubrir, no ya
-unos cuantos "hechos" aislados, sino ciertos secretos profundos de la
-naturaleza? La segunda es que una educación científica como la
-descripta antes (y como se imparte en nuestras escuelas) no puede
-reconciliarse con una actitud humanista".
-
-Los defensores de la ciencia suelen apelar a la mejora en la salud y
-el confort como elementos propagandísticos. Pero si hablamos de
-aportes, también hay que mencionar los transgénicos, las armas, los
-desastres nucleares, la contaminación ambiental y demás.
-
-En la película Unbelievers, Dawking y Krauss mencionan que les
-gustaría que durante sus vidas aparezca alguna teoría plausible sobre
-el origen del universo o sobre alguna cosa así, y que puedan decir:
-"oh, era una explicación tan simple y plausible...". Sin embargo, la
-idea de que las reglas del universo son simples y elegantes es
-absurda, porque está lleno de mecanismos estrambóticos y dificiles de
-entender como la relatividad. ¿Por qué un mundo complejo debe
-explicarse y entenderse de manera simple?
-
----
-
-Todas estas cuestiones suelen estar ausentes de la conciencia que
-tienen los científicos de sus prácticas, así que cuando opinan de los
-métodos de la ciencia, de la fortaleza de sus argumentos, suelen
-expresar una visión bastante simplificada de la actividad científica,
-aunque sí son capaces de advertir, porque lo experimentan
-permanentemente, los mecanismos políticos y económicos que atraviesan
-la actividad que llevan adelante.
-
-En general los científicos de la actualidad carecen de formación en
-filosofía y en historia de la ciencia, puesto que toda la energía se
-proyecta sobre la especialización en la disciplina desde la cual
-deberán pelear por becas y subsidios. No creo que actualmente se
-valore significativamente el disponer de herramientas ajenas a la
-especialidad, ya que no se advierte que la epistemología, la
-filosofía, la historia puedan aportar algo a la producción
-científica. Habría que contrastar esto con la realidad de los físicos
-de la primera mitad del siglo XX.
-
-** Beneficios del avance tecnológico
-
-Respecto de los beneficios de la ciencia, el hecho de tener
-celulares, medicamentos, etc.
-
-cómo se distribuye el dinero en ciencias? qué campos reciben más, qué
-lineas de investigación se apoyan más?
+  estancamiento, no se detiene, mientras que otras formas de conocer
+  parecen tender a estancarse y reproducir infinitamente lo mismo.
