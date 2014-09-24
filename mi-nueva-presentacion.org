@@ -7,40 +7,42 @@
 #+LaTeX_CLASS_OPTIONS: [a4paper]
 #+LANGUAGE: es
 #+LATEX_HEADER: \usepackage[spanish]{babel}
+#+LATEX_HEADER: \usepackage[margin=0.5in]{geometry}
+
+
+*Apuntes personales acerca del conocimiento en las ciencias*
 
 * Aclaración
 
-Me parece importante aclarar que mis opiniones, reflexiones y puntos
-de vista están construidos desde lo que sería una "visión del
-usuario", a partir de mis experiencias laborales y mis lecturas. Esto
-es diferente a una exposición hecha por un experto, que en este caso
-sería un epistemólogo. No voy a citar a Habermas, ni a Marcuse, ni a
-Hegel, exclusivamente porque no los he leído. Sin embargo, yo creo que
-la palabra de los expertos no es la única que puede contribuir a la
-construcción del conocimiento, así que los invito a escucharme y a
-dialogar o debatir.
+\Large Me parece importante aclarar que mis reflexiones están construidas
+desde lo que sería una "visión del usuario", a partir de mis
+experiencias laborales y mis lecturas. Esto es diferente a una
+exposición hecha por un experto, que en este caso sería un
+epistemólogo. No voy a citar a Habermas, ni a Marcuse, ni a Hegel,
+exclusivamente porque no los he leído. Sin embargo, la palabra de los
+expertos no es la única que puede contribuir a la construcción del
+conocimiento, así que los invito a escucharme y a dialogar o debatir.
 
-De todos modos, siempre es posible que algunas de mis observaciones
-puedan ser consideradas superficiales, superadas o directamente
-erroneas. En ese caso, espero que estén atentos y lo señalen, tanto
-durante la exposición como al final.
+Siempre es posible que algunas de mis observaciones puedan ser
+consideradas superficiales, superadas o directamente erroneas. En ese
+caso, espero que estén atentos y lo señalen, tanto durante la
+exposición como al final.
 
-También quiero advertir que mi expectativa no es convencer sobre la
-validez de mis afirmaciones, sino cuestionar algunas perspectivas
-demasiado idealizadas acerca de las ciencias, que se dan justamente en
-los ámbitos en que he trabajado. Mis reflexiones surgen en respuesta a
-un modo dominante de hacer ciencia, diseñar tecnología y enseñar. Mi
-propósito con esta presentación es incomodar esas concepciones para
-que nadie esté cómodo ni afirmando que el conocimiento científico del
-modo en que lo conocemos es despreciable ni encumbrándolo como a un
-ídolo único e indiscutible.
+También quiero advertir que mi expectativa es cuestionar algunas
+perspectivas demasiado idealizadas acerca de las ciencias, que se dan
+justamente en los ámbitos en que he trabajado. Mis reflexiones surgen
+en respuesta a un modo extendido de pensar acerca de la ciencia, la
+tecnología y la enseñanza. Mi propósito con esta presentación es
+discutir esas concepciones para que nadie esté cómodo ni afirmando
+que el conocimiento científico (del modo en que lo conocemos) es
+despreciable ni encumbrándolo como a un ídolo único e indiscutible.
 
 Esto me preocupa un poco porque en el mundo se extienden y fortalecen
 distintas formas de fundamentalismo e irracionalidad, con lo cual
 parecería que es irresponsable cuestionar a aquello que se identifica
-con la razón y la libertad. Sin embargo acallar la crítica agitando
-"el fantasma de la derecha" nos convertiría justamente en aquello que
-rechazamos.
+con la razón y la libertad. Sin embargo acallar la crítica agitando el
+equivalente al /fantasma de la derecha/ nos convertiría justamente en
+aquello que rechazamos.
 
 * Mis ámbitos de trabajo.
 
@@ -69,9 +71,7 @@ obtención de imágenes del cuerpo humano) y para tratamiento
 ** Investigación y Desarrollo
 
 Participé en tareas de investigación en el campo de la
-electrofisiología cardíaca, tanto en la Facultad de Ingeniería como en
-visitas temporarias a un laboratorio de esta especialidad en Estados
-Unidos.
+electrofisiología cardíaca.
 
 Trabajé dentro de grupos que se ocupan de dos grandes temas:
 
@@ -98,7 +98,7 @@ enseñanza.
 Quería aclarar que la división es arbitraria y tiene más que ver con
 tratar de presentar las ideas en forma ordenada y secuencial que en
 hacer una diferenciación analítica seria. Las tareas de investigación
-"pura" y de desarrollo de tecnología están relacionadas y se necesitan
+/pura/ y de desarrollo de tecnología están relacionadas y se necesitan
 mutuamente.
 
 En general las ideas más difundidas y discutidas de las diferentes
@@ -109,8 +109,8 @@ demás. Para ellas se plantean y se discuten, por ejemplo, diferentes
 modelos metodológicos.
 
 El desarrollo de tecnologías o las ciencias aplicadas (que son los
-viejos oficios pero profesionalizados, y que podemos llamar "ciencias
-del diseño") tienen particularidades, ya que su objetivo no es tanto
+viejos oficios pero profesionalizados, y que podemos llamar /ciencias
+del diseño/) tienen particularidades, ya que su objetivo no es tanto
 comprender el mundo sino operar sobre él, mediante la creación o
 modificación de procesos o instrumentos para cambiar nuestro entorno.
 
@@ -124,7 +124,7 @@ En ambos casos mi participación principal tuvo más que ver con la
 construcción de instrumentos de medición para obtener información en
 cada uno de estos dos campos. No trabajé directamente en la
 elaboración de teorías y experimentos, sino en posibilitar estos
-últimos, pero en ambos estuve en contacto con investigadores "básicos"
+últimos, pero en ambos estuve en contacto con investigadores /básicos/
 y sus discusiones acerca de las incógnitas del campo de estudio, las
 teorías que pretendían probar o cuestionar y los experimentos para
 materializar estos propósitos.
@@ -219,10 +219,10 @@ manera tal que se puedan establecer conocimientos sólidos para el
 avance en la comprensión de las distintas disciplinas, y así
 traducirse finalmente en una mejor comprensión del universo.
 
-Pero vamos a plantear algunas dificultades. En primer lugar da la
-impresión de que no hay mucho lugar para las contradicciones, o que
-éstas son facilmente eliminables en base a la experimentación y a la
-contrastación intersubjetiva por parte de la comunidad de pares.
+Pero vamos a plantear algunas dificultades. Da la impresión de que no
+hay mucho lugar para las contradicciones, o que éstas son facilmente
+eliminables en base a la experimentación y a la contrastación
+intersubjetiva por parte de la comunidad de pares.
 
 Sin embargo los resultados experimentales no siempre son fáciles de
 analizar. A veces la información dice una cosa en un conjunto de
@@ -276,8 +276,8 @@ Hay al menos dos aspectos del problema que me gustaría plantear:
 
 *Punto 1* Los conocimientos de óptica de Galileo no eran suficientes
 para que resultaran incuestionables las observaciones hechas con el
-telescopio. Una cosa es que se pudiera comprobar que con este nuevo
-instrumento se podía ampliar una imagen conocida dentro de la Tierra,
+telescopio. Una cosa es que se haya podido comprobar que este nuevo
+instrumento ampliaba una imagen conocida dentro de la Tierra,
 y otra es que pudiese funcionar de manera confiable para observar
 objetos celestes. Por ejemplo: ¿era posible entender qué significaban
 las distorsiones de los sistemas primitivos de lentes o sospechar el
@@ -307,20 +307,20 @@ tomografía de emisión de positrones y demás, nos brindan información
 que no todos estamos en condiciones de interpretar y además, aquellos
 que sí lo están, no siempre pueden efectuar lecturas carentes de
 errores a partir de ellas o lecturas coincidentes entre sí. Siempre
-hay una interrelación entre observación y teoría, lo cual vuelve
-dificil aceptar que haya posibilidad de efectuar observaciones puras
-que puedan fortalecer o debilitar puntos de vista en conflicto. En el
+hay una interrelación entre observación y teoría, con lo cual parece
+razonable decir que las observaciones que fortalecen o debilitan los
+puntos de vista en conflicto nunca son completamente puras. En el
 lenguaje de la epistemología se suele decir que las observaciones
 están imbuidas de teoría.
 
-*Punto 2* En segundo lugar, volviendo al ejemplo de Galileo, se
-puede afirmar que había elementos empíricos también en el campo de los
+*Punto 2* En segundo lugar, volviendo al ejemplo de Galileo, se puede
+afirmar que había elementos empíricos también en el campo de los
 aristotélicos. Por ejemplo: para sostener que la Tierra no se movía
 planteaban el siguiente experimento. Si se deja caer una piedra desde
 una torre muy alta y la Tierra se mueve, sería razonable que la piedra
-no cayese sobre la base de la torre, sino a una distancia igual a la
-distancia recorrida por la Tierra durante el tiempo en que se produjo
-la caida. Otro argumento en el mismo sentido: si dos proyectiles se
+no cayese sobre la base de la torre, sino a una distancia relacionada
+con el movimiente de la Tierra durante el tiempo en que se produjo la
+caida. Otro argumento en el mismo sentido: si dos proyectiles se
 lanzan en direcciones opuestas con la misma fuerza, deberían recorrer
 distinta distancia. Faltaba la noción de inercia, para explicar estos
 dos hechos contradictorios con la tesis heliocéntrica. Lo que muestran
@@ -328,8 +328,8 @@ estos ejemplos es que la obviedad de una hipótesis recién se logra
 mucho tiempo después de que teorías rivales disputan cuál es aquella
 con mayor contenido de verdad.  Con esto podemos apreciar que cuando
 el conocimiento trata de expandirse sobre terreno desconocido se
-enfrenta con desafíos que no son tan triviales como lo proponen
-positivistas y falsacionistas. Quizás estas reflexiones nos permitan
+enfrenta con desafíos que no son tan triviales de resolver como con el
+mecanismo de la falsación. Quizás estas reflexiones nos permitan
 esquivar el peligro de convertirnos en dogmáticos defensores del
 empirismo.
 
@@ -437,14 +437,14 @@ prácticas de investigación. ¿Calificarían de pseudo-científicos a los
 que planteasen que el comportamiento de la computadora tiene que ver
 con un aparato psíquico inmedible o con un /espíritu/? ¿Será razonable
 limitar las teorizaciones sobre el funcionamiento de la computadora a
-lo que experimentable mediante la interacción con la pantalla y el
-teclado (es decir mediante una forma de psicología del
-comportamiento)? Lo que quiero mostrar es que hay criterios de
-demarcación del conocimiento científico que reducen lo susceptible de
-conocerse a aquello medible y de materialidad más ingenua. Concebir la
-ciencia de esta manera puede llevarnos a rechazar modos de conocer la
-realidad más sujetos a la especulación, y a calificar a aquello que
-cae fuera de pura charlatanería.
+lo experimentable mediante la interacción con la pantalla y el teclado
+(es decir mediante una forma de psicología del comportamiento)? Lo que
+quiero mostrar es que hay criterios de demarcación del conocimiento
+científico que reducen lo susceptible de conocerse a aquello medible y
+de materialidad más ingenua. Concebir la ciencia de esta manera puede
+llevarnos a rechazar modos de conocer la realidad más sujetos a la
+especulación, y a calificar a aquello que cae fuera de pura
+charlatanería.
 
 *** Lenguaje
 
@@ -498,23 +498,23 @@ selección arbitraria de parámetros.
 
 *** La verdad como un entramado autocoherente.
 
-Hay una imagen que se me presenta cuando imagino la forma de  nuestras
+Hay una imagen que se me presenta cuando imagino la forma de nuestras
 concepciones sobre el mundo: la de una tela de araña. Quizás en
 algunos casos cuando los sistemas que estudiamos son menos complejos,
-efectivamente podamos pensar que la verdad describe a la realidad tal
-cual es. Pero en los sistemas más complejos e interesantes este ajuste
-es dificultoso de lograr. Es más razonable pensar que las verdades que
-podemos producir sólo tienen algunos puntos de contacto con la
-realidad mientras que gran parte de nuestras afirmaciones sólo son
-verdad en tanto mejoran la coherencia de nuestros modelos explicativos
-(esto sería como una postura instrumentalista) sin que estén tan
-ajustadas a la realidad. Verdades, entonces, serían aquellas
-afirmaciones que tiendan a que el modelo explicativo sea cada vez más
-autocoherente, como si estuviésemos construyendo una tela de araña
-donde sus puntos de apoyo fuesen las comprobaciones empíricas y las
-teorías fuesen hilos que deben fortalecer la estructura de la tela,
-aún cuando no necesariamente brinden muestras inequívocas de estar
-vinculadas con la realidad.
+efectivamente podamos pensar que nuestras teorías describen a la
+realidad tal cual es. Pero en los sistemas más complejos e
+interesantes este ajuste es dificultoso de lograr. Es más razonable
+pensar que las verdades que podemos producir sólo tienen algunos
+puntos de contacto con la realidad mientras que gran parte de nuestras
+afirmaciones sólo son verdad en tanto mejoran la coherencia de
+nuestros modelos explicativos (esto sería como una postura
+instrumentalista) sin que estén tan ajustadas a la realidad. Verdades,
+entonces, serían aquellas afirmaciones que tiendan a que el modelo
+explicativo sea cada vez más autocoherente, como si estuviésemos
+construyendo una tela de araña donde sus puntos de apoyo fuesen las
+comprobaciones empíricas y las teorías fuesen hilos que deben
+fortalecer la estructura de la tela, aún cuando no necesariamente
+brinden muestras inequívocas de estar vinculadas con la realidad.
 
 *** Conclusión
 
@@ -586,7 +586,7 @@ sistema circulatorio con baterías, resistencias, capacitores e
 inductancias y a través de la medida de voltajes y corrientes
 eléctricas sobre este sistema artificial, se puede tener información
 sobre la presión o el volumen de sangre que habría en cada sección del
-sistema. Esto es util porque permite expedimentar sobre el sistema
+sistema. Esto es util porque permite experimentar sobre el sistema
 artificial sin poner en riesgo la vida de pacientes.
 
 Se pueden construir modelos eléctricos, hidráulicos y neumáticos de
@@ -627,7 +627,7 @@ ciertos problemas o cumplir con cierta función.
 Para que la red pueda cumplir con su propósito primero hay que
 entrenarla con un conjunto conocido de entradas para las cuales además
 conocemos las salidas deseadas. Se evalúan las salidas de la red ante
-cada entrada y si hay diferencia respecto de lo que deberían haberse
+cada entrada y si hay diferencia respecto de lo que debería haberse
 obtenido, entonces se modifican ciertos números llamados /pesos/ que
 vinculan las entradas con las neuronas y a las neuronas entre sí. Esto
 se hace hasta que la red ofrece las salidas deseadas y ya no es
@@ -725,11 +725,11 @@ combustible tener en el tanque (podríamos preguntarnos: ¿cuánta nafta
 exactamente consume nuestro vehículo por kilómetro?), o si necesitamos
 saber en cuánto tiempo podemos hacer el viaje. En el contexto de esos
 problemas, que la distancia varíe en uno, dos o cinco kilómetros no
-tiene demasiado impacto. *Hay un grado de incertidumbre tolerable en el
-conocimiento de la realidad que no afecta nuestra capacidad de actuar
-sobre ella*. Si queremos saber cuántas personas pueden sentarse
-alrededor de la mesa, no tiene sentido tratar de obtener una medida
-con la precisión de un Angstrom.
+tiene demasiado impacto. Hay un grado de incertidumbre tolerable en
+el conocimiento de la realidad que no afecta nuestra capacidad de
+actuar sobre ella. Si queremos saber cuántas personas pueden
+sentarse alrededor de la mesa, no tiene sentido tratar de obtener una
+medida con la precisión de un Angstrom.
 
 ** ¿Qué preguntas puede responder la ciencia?
 
@@ -765,7 +765,7 @@ para explicarla, no siempre resulta facil llegar a la verdad durante
 el trayecto de enseñanza. Por ejemplo: no se puede enseñar física
 partiendo de la teoría de la relatividad. Empezar por la mecánica
 clásica es una elección pedagógica mucho más razonable, y de hecho es
-tanta la comprensión que es posible tener del mundo con "sólo" la
+tanta la comprensión que es posible tener del mundo con /sólo/ la
 mecánica clásica que se puede ejercer la profesión sin siquiera estar
 enterado de la existencia de la mecánica relativista.
 
@@ -778,7 +778,7 @@ de teorías rivales ni los conflictos asociados con ellas. En
 este sentido la enseñanza es a-histórica. De esta manera, los
 estudiantes (que luego se convertirán a su vez en docentes que
 desconocen la historia de su disciplina) pueden llegar a tener una
-percepción equivocada y sobredimensionada sobre su real conocimiento.
+percepción equivocada sobre su real conocimiento.
 
 Otro conflicto con la verdad tiene que ver con el objetivo que se dan
 para sí mismas instituciones como las facultades de ingeniería. Son
@@ -786,7 +786,7 @@ discutibles los propósitos a los cuales está orientada la
 enseñanza. Más allá de los documentos oficiales y sus bienaventuradas
 promesas, los profesores tratan de formar a los estudiantes para que
 puedan responder a los problemas esperables en las distintas areas en
-la que supuestamente son expertos. Enseñar de esta manera tiene el
+las que supuestamente son expertos. Enseñar de esta manera tiene el
 peligro de cristalizar formas convencionales de actuar, repetir las
 soluciones evadiendo lo que de particular tenga cada problema. Hay en
 esto una especie de adoctrinamiento, un recorte a la creatividad, una
@@ -918,7 +918,7 @@ Algunas conclusiones generales y desordenadas:
   no sea tan regular o tan definida como se suele pensar.
 
 - lo que caracteriza al conocimiente científico no es el método sino
-  la voluntad de saber a través de la razón, es la exahustividad de la
+  la voluntad de saber a través de la razón, es la exhaustividad de la
   búsqueda.
 
 - Es dificil pensar la ciencia aislada de las instituciones en las
